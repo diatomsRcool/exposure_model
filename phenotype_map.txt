@@ -1,20 +1,20 @@
 Mortality	UBERON:0000071
-Jaw morphology	
-Microcephaly or abnormal head shape	HP:0000252 or HP:0000234
-Microphthalmia/Cyclopia	HP:0000568/HP:0009914
+Jaw morphology	ZP:0009598
+Microcephaly or abnormal head shape	ZP:0002314
+Microphthalmia/Cyclopia	ZP:0000043
 Head edema	ZP:0001451
 Malformation of the sacculi/otoliths	ZP:0001920
-Heart edema/irregular shape	ZP:0001192/ZP:0000107
-Abnormal heartbeat	
+Heart edema/irregular shape	ZP:0005892
+Abnormal heartbeat	ZP:0009432
 Length alteration	ZP:0012799
-Curved/curled
-Notochord morphology
+Curved/curled	ZP:0002347
+Notochord morphology	ZP:0000624
 Malformation of the tail (including tail fins)
 Yolk edema
-Yolk opacity
-Somite morphology
+Yolk opacity	ZP:0002198
+Somite morphology	ZP:0000011
 Other effects
-Hatching
+Hatching	ZP:0003211
 Necrotic tissues	ZP:0000398
 Halted Dev.	ZP:0000305
 Craniofacial	ZP:0001609
@@ -23,23 +23,23 @@ Par E.	ZP:0001241
 Red heart	ZP:0005930
 Axis	ZP:0005012
 Notochord	ZP:0000627
-C. Fin	ZP:0007319/ZP:0008611
-Pectoral Fin	ZP:0003538/ZP:0001707
+C. Fin	ZP:0010405
+Pectoral Fin	ZP:0000055
 MORT	UBERON:0000071
 YSE_	ZP:0000102
 AXIS	ZP:0005012
 EYE_	ZP:0008271
 SNOU	ZP:0014550
-JAW_
-OTIC
-PE__
-BRAI
-SOMI
-PFIN
-CFIN
+JAW_	ZP:0009598
+OTIC	ZP:0001601
+PE__	ZP:0009266
+BRAI	ZP:0000100
+SOMI	ZP:0000011
+PFIN	ZP:0000055
+CFIN	ZP:0010405
 PIG_	ZP:0022396
-CIRC
-TRUN
+CIRC	ZP:0001225
+TRUN	ZP:0003437
 SWIM	ZP:0020238
 NC__	ZP:0000624
 TR__	ZP:0000624
