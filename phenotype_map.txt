@@ -9,8 +9,8 @@ Abnormal heartbeat	ZP:0009432
 Length alteration	ZP:0012799
 Curved/curled	ZP:0002347
 Notochord morphology	ZP:0000624
-Malformation of the tail (including tail fins)
-Yolk edema
+Malformation of the tail (including tail fins)	ZP:0004969
+Yolk edema	ZP:0010821
 Yolk opacity	ZP:0002198
 Somite morphology	ZP:0000011
 Other effects
