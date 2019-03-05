@@ -1,87 +1,88 @@
-103-90-2	CHEBI:46195
-1069-66-5	CHEBI:9925
-107534-96-3	CHEBI:81781
-108-88-3	CHEBI:17578
-109-86-4	CHEBI:46790
-110-54-3	CHEBI:29021
-111-94-4	Q26841287
-115-09-3	CHEBI:28216
-115-86-6	CHEBI:35033
-115-96-8	CHEBI:35037
-116-06-3	CHEBI:2555
-117-81-7	CHEBI:17747
-120-12-7	CHEBI:35298
-12108-13-3	Q158568
-1241-94-7	Q27259513
-127-07-1	CHEBI:44423
-129-00-0	CHEBI:39106
-133-06-2	CHEBI:34608
-1330-78-5	Q411317
-13674-84-5	Q2454095
-1478-61-1	CHEBI:72754
-1746-01-6	CHEBI:28119
-183658-27-7	Q20054520
-191-24-2	CHEBI:34568
-192-97-2	CHEBI:34567
-2001-95-8	CHEBI:28545
-203-64-5	Q27290553
-205-99-2	CHEBI:34565
-207-08-9	CHEBI:34569
-208-96-8	CHEBI:33081
-215-58-7	CHEBI:82437
-218-01-9	CHEBI:51687
-2465-27-2	CHEBI:51876
-26040-51-7	Q19931407
-26787-78-0	CHEBI:2676
-28094-15-7	Q27273318
-2921-88-2	CHEBI:34631
-29761-21-5	Q27254368
-36913-39-0	Q27284640
-439-14-5	CHEBI:49575
-50-06-6	CHEBI:8069
-50-28-2	CHEBI:16469
-50-29-3	CHEBI:16130
-50-32-8	CHEBI:29865
-50-35-1	CHEBI:74947
-50-70-4	CHEBI:28789
-50-78-2	CHEBI:15365
-50-81-7	CHEBI:29073
-51-21-8	CHEBI:46345
-51-52-5	CHEBI:8502
-52645-53-1	CHEBI:34911
-52918-63-5	CHEBI:4388
-53-70-3	CHEBI:35299
-5436-43-1	CHEBI:81584
-55406-53-6	CHEBI:83279
-56-35-9	CHEBI:81543
-56-38-2	CHEBI:27928
-56-53-1	CHEBI:41922
-56-55-3	CHEBI:51348
-56803-37-3
-57-30-7	CHEBI:8070
-58-08-2	CHEBI:27732
-58-89-9	CHEBI:32888
-60-57-1	CHEBI:34696
-60348-60-9	CHEBI:81582
-6080-56-4	CHEBI:33112
-63-25-2	CHEBI:3390
-633-65-8	CHEBI:31271
-638-38-0	158333
-64-86-8	CHEBI:51074
-68631-49-2	CHEBI:81534
-68937-41-7	Q27137290
-70-30-4	CHEBI:5693
-76-44-8	CHEBI:34785
-79-06-1	CHEBI:28619
-79-94-7	CHEBI:33217
-80-05-7	CHEBI:33216
-80-09-1	CHEBI:34372
-82385-42-0	CHEBI:32112
-83-32-9	CHEBI:22154
-83-79-4	CHEBI:28201
-848641-69-0
-85-01-8	CHEBI:28851
-86-73-7	CHEBI:28266
-860302-33-6	Firemaster 550
-91-20-3	CHEBI:16482
-97-77-8	CHEBI:4659
+CASRN	Identifier	ChemicalName	ECTO
+103-90-2	http://purl.obolibrary.org/obo/CHEBI_46195	Acetaminophen	http://purl.obolibrary.org/obo/ECTO_0000353
+1069-66-5	http://purl.obolibrary.org/obo/CHEBI_9925	Sodium valproate	
+107534-96-3	http://purl.obolibrary.org/obo/CHEBI_81781	Tebuconazole	http://purl.obolibrary.org/obo/ECTO_0001431
+108-88-3	http://purl.obolibrary.org/obo/CHEBI_17578	Toluene	http://purl.obolibrary.org/obo/ECTO_0000341
+109-86-4	http://purl.obolibrary.org/obo/CHEBI_46790	2-Methoxyethanol	http://purl.obolibrary.org/obo/ECTO_0001795
+110-54-3	http://purl.obolibrary.org/obo/CHEBI_29021	n-Hexane	http://purl.obolibrary.org/obo/ECTO_0000348
+111-94-4	Q26841287	3,3'-Iminobispropanenitrile	
+115-09-3	http://purl.obolibrary.org/obo/CHEBI_28216	Methylmercuric(II) chloride	
+115-86-6	http://purl.obolibrary.org/obo/CHEBI_35033	Triphenyl phosphate	http://purl.obolibrary.org/obo/ECTO_0002271
+115-96-8	http://purl.obolibrary.org/obo/CHEBI_35037	Tris(2-chloroethyl) phosphate	
+116-06-3	http://purl.obolibrary.org/obo/CHEBI_2555	Aldicarb	http://purl.obolibrary.org/obo/ECTO_0001602
+117-81-7	http://purl.obolibrary.org/obo/CHEBI_17747	Di(2-ethylhexyl) phthalate	http://purl.obolibrary.org/obo/ECTO_0002290
+120-12-7	http://purl.obolibrary.org/obo/CHEBI_35298	Anthracene	http://purl.obolibrary.org/obo/ECTO_0001617
+12108-13-3	Q158568	(Methylcyclopentadienyl)tricarbonylmanganese	
+1241-94-7	Q27259513	2-Ethylhexyl diphenyl phosphate	
+127-07-1	http://purl.obolibrary.org/obo/CHEBI_44423	Hydroxyurea	http://purl.obolibrary.org/obo/ECTO_0000293
+129-00-0	http://purl.obolibrary.org/obo/CHEBI_39106	Pyrene	
+133-06-2	http://purl.obolibrary.org/obo/CHEBI_34608	Captan	http://purl.obolibrary.org/obo/ECTO_0001646
+1330-78-5	Q411317	Tris(methylphenyl) phosphate	
+13674-84-5	Q2454095	Tris(2-chloroisopropyl)phosphate	
+1478-61-1	http://purl.obolibrary.org/obo/CHEBI_72754	Bisphenol AF	
+1746-01-6	http://purl.obolibrary.org/obo/CHEBI_28119	2,3,7,8-Tetrachlorodibenzo-p-dioxin	http://purl.obolibrary.org/obo/ECTO_0000456
+183658-27-7	Q20054520	2-Ethylhexyl 2,3,4,5-tetrabromobenzoate	
+191-24-2	http://purl.obolibrary.org/obo/CHEBI_34568	Benzo(g,h,i)perylene	
+192-97-2	http://purl.obolibrary.org/obo/CHEBI_34567	Benzo(e)pyrene	
+2001-95-8	http://purl.obolibrary.org/obo/CHEBI_28545	Valinomycin	
+203-64-5	Q27290553	4H-Cyclopenta(def)phenanthrene	
+205-99-2	http://purl.obolibrary.org/obo/CHEBI_34565	Benzo(b)fluoranthene	
+207-08-9	http://purl.obolibrary.org/obo/CHEBI_34569	Benzo(k)fluoranthene	
+208-96-8	http://purl.obolibrary.org/obo/CHEBI_33081	Acenaphthylene	
+215-58-7	http://purl.obolibrary.org/obo/CHEBI_82437	Dibenz[a,c]anthracene	
+218-01-9	http://purl.obolibrary.org/obo/CHEBI_51687	Chrysene	
+2465-27-2	http://purl.obolibrary.org/obo/CHEBI_51876	Auramine hydrochloride	
+26040-51-7	Q19931407	Bis(2-ethylhexyl) tetrabromophthalate	
+26787-78-0	http://purl.obolibrary.org/obo/CHEBI_2676	Amoxicillin	
+28094-15-7	Q27273318	Oxidopamine hydrochloride	
+2921-88-2	http://purl.obolibrary.org/obo/CHEBI_34631	Chlorpyrifos	http://purl.obolibrary.org/obo/ECTO_0001251
+29761-21-5	Q27254368	Isodecyl diphenyl phosphate	
+36913-39-0	Q27284640	1-Methyl-4-phenylpyridinium iodide	
+439-14-5	http://purl.obolibrary.org/obo/CHEBI_49575	Diazepam	http://purl.obolibrary.org/obo/ECTO_0001346
+50-06-6	http://purl.obolibrary.org/obo/CHEBI_8069	Phenobarbital	
+50-28-2	http://purl.obolibrary.org/obo/CHEBI_16469	17beta-Estradiol	
+50-29-3	http://purl.obolibrary.org/obo/CHEBI_16130	Dichlorodiphenyltrichloroethane	http://purl.obolibrary.org/obo/ECTO_0000970
+50-32-8	http://purl.obolibrary.org/obo/CHEBI_29865	Benzo(a)pyrene	http://purl.obolibrary.org/obo/ECTO_0001957
+50-35-1	http://purl.obolibrary.org/obo/CHEBI_74947	Thalidomide	
+50-70-4	http://purl.obolibrary.org/obo/CHEBI_28789	D-Glucitol	
+50-78-2	http://purl.obolibrary.org/obo/CHEBI_15365	Aspirin	http://purl.obolibrary.org/obo/ECTO_0002069
+50-81-7	http://purl.obolibrary.org/obo/CHEBI_29073	L-Ascorbic acid	http://purl.obolibrary.org/obo/ECTO_0000195
+51-21-8	http://purl.obolibrary.org/obo/CHEBI_46345	5-Fluorouracil	http://purl.obolibrary.org/obo/ECTO_0000226
+51-52-5	http://purl.obolibrary.org/obo/CHEBI_8502	6-Propyl-2-thiouracil	
+52645-53-1	http://purl.obolibrary.org/obo/CHEBI_34911	Permethrin	http://purl.obolibrary.org/obo/ECTO_0001854
+52918-63-5	http://purl.obolibrary.org/obo/CHEBI_4388	Deltamethrin	
+53-70-3	http://purl.obolibrary.org/obo/CHEBI_35299	Dibenz(a,h)anthracene	
+5436-43-1	http://purl.obolibrary.org/obo/CHEBI_81584	2,2'4,4'-Tetrabromodiphenyl ether	http://purl.obolibrary.org/obo/ECTO_0001547
+55406-53-6	http://purl.obolibrary.org/obo/CHEBI_83279	3-Iodo-2-propynyl-N-butylcarbamate	http://purl.obolibrary.org/obo/ECTO_0001464
+56-35-9	http://purl.obolibrary.org/obo/CHEBI_81543	Bis(tributyltin)oxide	
+56-38-2	http://purl.obolibrary.org/obo/CHEBI_27928	Parathion	http://purl.obolibrary.org/obo/ECTO_0002222
+56-53-1	http://purl.obolibrary.org/obo/CHEBI_41922	Diethylstilbestrol	http://purl.obolibrary.org/obo/ECTO_0002005
+56-55-3	http://purl.obolibrary.org/obo/CHEBI_51348	Benz(a)anthracene	
+56803-37-3		tert-Butylphenyl diphenyl phosphate	
+57-30-7	http://purl.obolibrary.org/obo/CHEBI_8070	Phenobarbital sodium	
+58-08-2	http://purl.obolibrary.org/obo/CHEBI_27732	Caffeine	http://purl.obolibrary.org/obo/ECTO_0000170
+58-89-9	http://purl.obolibrary.org/obo/CHEBI_32888	Lindane	http://purl.obolibrary.org/obo/ECTO_0001219
+60-57-1	http://purl.obolibrary.org/obo/CHEBI_34696	Dieldrin	http://purl.obolibrary.org/obo/ECTO_0002131
+60348-60-9	http://purl.obolibrary.org/obo/CHEBI_81582	2,2',4,4',5-Pentabromodiphenyl ether	http://purl.obolibrary.org/obo/ECTO_0001548
+6080-56-4	http://purl.obolibrary.org/obo/CHEBI_33112	Lead(II) acetate trihydrate	
+63-25-2	http://purl.obolibrary.org/obo/CHEBI_3390	Carbaryl	http://purl.obolibrary.org/obo/ECTO_0001647
+633-65-8	http://purl.obolibrary.org/obo/CHEBI_31271	Berberine chloride	
+638-38-0	158333	Manganese(II) acetate	
+64-86-8	http://purl.obolibrary.org/obo/CHEBI_51074	Colchicine	
+68631-49-2	http://purl.obolibrary.org/obo/CHEBI_81534	2,2',4,4',5,5'-Hexabromodiphenyl ether	http://purl.obolibrary.org/obo/ECTO_0001549
+68937-41-7	Q27137290	Triphenyl phosphates isopropylated	
+70-30-4	http://purl.obolibrary.org/obo/CHEBI_5693	Hexachlorophene	http://purl.obolibrary.org/obo/ECTO_0001768
+76-44-8	http://purl.obolibrary.org/obo/CHEBI_34785	Heptachlor	http://purl.obolibrary.org/obo/ECTO_0001258
+79-06-1	http://purl.obolibrary.org/obo/CHEBI_28619	Acrylamide	http://purl.obolibrary.org/obo/ECTO_0000417
+79-94-7	http://purl.obolibrary.org/obo/CHEBI_33217	3,3',5,5'-Tetrabromobisphenol A	http://purl.obolibrary.org/obo/ECTO_0001901
+80-05-7	http://purl.obolibrary.org/obo/CHEBI_33216	Bisphenol A	http://purl.obolibrary.org/obo/ECTO_0000414
+80-09-1	http://purl.obolibrary.org/obo/CHEBI_34372	4,4'-Sulfonyldiphenol	
+82385-42-0	http://purl.obolibrary.org/obo/CHEBI_32112	Sodium saccharin hydrate	
+83-32-9	http://purl.obolibrary.org/obo/CHEBI_22154	Acenaphthene	
+83-79-4	http://purl.obolibrary.org/obo/CHEBI_28201	Rotenone	http://purl.obolibrary.org/obo/ECTO_0000468
+848641-69-0		1-Ethyl-3-methylimidazolium diethylphosphate	
+85-01-8	http://purl.obolibrary.org/obo/CHEBI_28851	Phenanthrene	http://purl.obolibrary.org/obo/ECTO_0001197
+86-73-7	http://purl.obolibrary.org/obo/CHEBI_28266	Fluorene	http://purl.obolibrary.org/obo/ECTO_0001532
+860302-33-6		Firemaster 550	
+91-20-3	http://purl.obolibrary.org/obo/CHEBI_16482	Naphthalene	http://purl.obolibrary.org/obo/ECTO_0001170
+97-77-8	http://purl.obolibrary.org/obo/CHEBI_4659	Disulfiram	http://purl.obolibrary.org/obo/ECTO_0002139

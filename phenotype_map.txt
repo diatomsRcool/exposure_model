@@ -1,3 +1,4 @@
+Outcome	Identifier
 Mortality	UBERON:0000071
 Jaw morphology	ZP:0009598
 Microcephaly or abnormal head shape	ZP:0002314
