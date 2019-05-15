@@ -1,0 +1,2150 @@
+CAS	phenotype	source	concentration	duration
+56-53-1	Abnormal heartbeat	Biobide	LEL	2dpf
+860302-33-6	Abnormal heartbeat	Biobide	LEL	2dpf
+52918-63-5	Curved/curled	Biobide	LEL	2dpf
+86-73-7	Curved/curled	Biobide	LEL	2dpf
+68937-41-7	Curved/curled	Biobide	LEL	2dpf
+133-06-2	Curved/curled	Biobide	LEL	2dpf
+56-35-9	Curved/curled	Biobide	LEL	2dpf
+1478-61-1	Curved/curled	Biobide	LEL	2dpf
+97-77-8	Curved/curled	Biobide	LEL	2dpf
+56803-37-3	Curved/curled	Biobide	LEL	2dpf
+116-06-3	Curved/curled	Biobide	LEL	2dpf
+58-89-9	Curved/curled	Biobide	LEL	2dpf
+85-01-8	Curved/curled	Biobide	LEL	2dpf
+107534-96-3	Curved/curled	Biobide	LEL	2dpf
+2001-95-8	Curved/curled	Biobide	LEL	2dpf
+79-94-7	Curved/curled	Biobide	LEL	2dpf
+50-28-2	Curved/curled	Biobide	LEL	2dpf
+208-96-8	Curved/curled	Biobide	LEL	2dpf
+2465-27-2	Curved/curled	Biobide	LEL	2dpf
+56-53-1	Curved/curled	Biobide	LEL	2dpf
+68937-41-7	Heart edema/irregular shape	Biobide	LEL	2dpf
+1746-01-6	Heart edema/irregular shape	Biobide	LEL	2dpf
+1478-61-1	Heart edema/irregular shape	Biobide	LEL	2dpf
+97-77-8	Heart edema/irregular shape	Biobide	LEL	2dpf
+56803-37-3	Heart edema/irregular shape	Biobide	LEL	2dpf
+85-01-8	Heart edema/irregular shape	Biobide	LEL	2dpf
+107534-96-3	Heart edema/irregular shape	Biobide	LEL	2dpf
+439-14-5	Heart edema/irregular shape	Biobide	LEL	2dpf
+56-53-1	Heart edema/irregular shape	Biobide	LEL	2dpf
+860302-33-6	Heart edema/irregular shape	Biobide	LEL	2dpf
+56-38-2	Heart edema/irregular shape	Biobide	LEL	2dpf
+50-28-2	Heart edema/irregular shape	Biobide	LEL	2dpf
+208-96-8	Heart edema/irregular shape	Biobide	LEL	2dpf
+2465-27-2	Heart edema/irregular shape	Biobide	LEL	2dpf
+115-86-6	Heart edema/irregular shape	Biobide	LEL	2dpf
+83-32-9	Heart edema/irregular shape	Biobide	LEL	2dpf
+68937-41-7	Length alteration	Biobide	LEL	2dpf
+133-06-2	Length alteration	Biobide	LEL	2dpf
+1478-61-1	Length alteration	Biobide	LEL	2dpf
+97-77-8	Length alteration	Biobide	LEL	2dpf
+56803-37-3	Length alteration	Biobide	LEL	2dpf
+116-06-3	Length alteration	Biobide	LEL	2dpf
+58-89-9	Length alteration	Biobide	LEL	2dpf
+2001-95-8	Length alteration	Biobide	LEL	2dpf
+115-09-3	Length alteration	Biobide	LEL	2dpf
+83-79-4	Length alteration	Biobide	LEL	2dpf
+439-14-5	Length alteration	Biobide	LEL	2dpf
+79-94-7	Length alteration	Biobide	LEL	2dpf
+70-30-4	Length alteration	Biobide	LEL	2dpf
+56-38-2	Length alteration	Biobide	LEL	2dpf
+50-28-2	Length alteration	Biobide	LEL	2dpf
+208-96-8	Length alteration	Biobide	LEL	2dpf
+2465-27-2	Length alteration	Biobide	LEL	2dpf
+115-86-6	Length alteration	Biobide	LEL	2dpf
+56-53-1	Length alteration	Biobide	LEL	2dpf
+860302-33-6	Length alteration	Biobide	LEL	2dpf
+76-44-8	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+133-06-2	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+56-35-9	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+115-09-3	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+1478-61-1	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+85-01-8	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+439-14-5	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+2001-95-8	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+79-94-7	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+70-30-4	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+50-28-2	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+56-53-1	Malformation of the tail (including tail fins)	Biobide	LEL	2dpf
+50-29-3	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+52918-63-5	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+86-73-7	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+1746-01-6	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+1478-61-1	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+97-77-8	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+56803-37-3	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+133-06-2	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+116-06-3	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+58-89-9	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+80-05-7	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+55406-53-6	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+56-35-9	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+85-01-8	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+107534-96-3	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+439-14-5	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+2001-95-8	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+115-09-3	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+83-79-4	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+56-53-1	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+860302-33-6	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+56-38-2	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+50-28-2	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+208-96-8	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+2465-27-2	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+115-86-6	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+83-32-9	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+79-94-7	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+70-30-4	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+203-64-5	Microcephaly or abnormal head shape	Biobide	LEL	2dpf
+116-06-3	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+58-89-9	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+56-53-1	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+860302-33-6	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+56-38-2	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+50-28-2	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+208-96-8	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+2465-27-2	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+115-86-6	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+83-32-9	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+79-94-7	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+70-30-4	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+203-64-5	Microphthalmia/Cyclopia	Biobide	LEL	2dpf
+55406-53-6	Mortality	Biobide	LEL	2dpf
+56-35-9	Mortality	Biobide	LEL	2dpf
+85-01-8	Mortality	Biobide	LEL	2dpf
+107534-96-3	Mortality	Biobide	LEL	2dpf
+439-14-5	Mortality	Biobide	LEL	2dpf
+2001-95-8	Mortality	Biobide	LEL	2dpf
+115-09-3	Mortality	Biobide	LEL	2dpf
+83-79-4	Mortality	Biobide	LEL	2dpf
+56-53-1	Mortality	Biobide	LEL	2dpf
+860302-33-6	Mortality	Biobide	LEL	2dpf
+56-38-2	Mortality	Biobide	LEL	2dpf
+50-28-2	Mortality	Biobide	LEL	2dpf
+208-96-8	Mortality	Biobide	LEL	2dpf
+2465-27-2	Mortality	Biobide	LEL	2dpf
+115-86-6	Mortality	Biobide	LEL	2dpf
+83-32-9	Mortality	Biobide	LEL	2dpf
+79-94-7	Mortality	Biobide	LEL	2dpf
+70-30-4	Mortality	Biobide	LEL	2dpf
+203-64-5	Mortality	Biobide	LEL	2dpf
+56-35-9	Necrotic tissues	Biobide	LEL	2dpf
+79-94-7	Necrotic tissues	Biobide	LEL	2dpf
+70-30-4	Necrotic tissues	Biobide	LEL	2dpf
+50-28-2	Necrotic tissues	Biobide	LEL	2dpf
+56-53-1	Necrotic tissues	Biobide	LEL	2dpf
+70-30-4	Notochord morphology	Biobide	LEL	2dpf
+80-05-7	Other effects	Biobide	LEL	2dpf
+83-79-4	Other effects	Biobide	LEL	2dpf
+97-77-8	Other effects	Biobide	LEL	2dpf
+83-32-9	Other effects	Biobide	LEL	2dpf
+208-96-8	Other effects	Biobide	LEL	2dpf
+63-25-2	Yolk edema	Biobide	LEL	2dpf
+86-73-7	Yolk edema	Biobide	LEL	2dpf
+68937-41-7	Yolk edema	Biobide	LEL	2dpf
+203-64-5	Yolk edema	Biobide	LEL	2dpf
+56803-37-3	Yolk edema	Biobide	LEL	2dpf
+58-89-9	Yolk edema	Biobide	LEL	2dpf
+107534-96-3	Yolk edema	Biobide	LEL	2dpf
+83-32-9	Yolk edema	Biobide	LEL	2dpf
+85-01-8	Yolk edema	Biobide	LEL	2dpf
+115-86-6	Yolk edema	Biobide	LEL	2dpf
+860302-33-6	Yolk edema	Biobide	LEL	2dpf
+2465-27-2	Yolk edema	Biobide	LEL	2dpf
+50-28-2	Yolk edema	Biobide	LEL	2dpf
+56-53-1	Yolk edema	Biobide	LEL	2dpf
+2465-27-2	Yolk opacity	Biobide	LEL	2dpf
+56-35-9	Mortality	Biobide	AC50	2dpf
+70-30-4	Mortality	Biobide	AC50	2dpf
+79-94-7	Mortality	Biobide	AC50	2dpf
+56-53-1	Mortality	Biobide	AC50	2dpf
+50-28-2	Mortality	Biobide	AC50	2dpf
+83-79-4	Mortality	Biobide	AC50	2dpf
+2001-95-8	Mortality	Biobide	AC50	2dpf
+208-96-8	Mortality	Biobide	AC50	2dpf
+83-32-9	Mortality	Biobide	AC50	2dpf
+85-01-8	Mortality	Biobide	AC50	2dpf
+2465-27-2	Mortality	Biobide	AC50	2dpf
+55406-53-6	Mortality	Biobide	AC50	2dpf
+115-86-6	Mortality	Biobide	AC50	2dpf
+860302-33-6	Mortality	Biobide	AC50	2dpf
+107534-96-3	Mortality	Biobide	AC50	2dpf
+115-09-3	Mortality	Biobide	AC50	2dpf
+439-14-5	Mortality	Biobide	AC50	2dpf
+56-38-2	Mortality	Biobide	AC50	2dpf
+70-30-4	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+79-94-7	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+56-53-1	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+50-28-2	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+83-79-4	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+2001-95-8	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+208-96-8	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+83-32-9	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+85-01-8	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+2465-27-2	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+55406-53-6	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+115-86-6	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+860302-33-6	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+107534-96-3	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+115-09-3	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+439-14-5	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+56-38-2	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+203-64-5	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+58-89-9	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+56803-37-3	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+86-73-7	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+1478-61-1	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+133-06-2	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+116-06-3	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+1746-01-6	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+52918-63-5	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+50-29-3	Microcephaly or abnormal head shape	Biobide	AC50	2dpf
+70-30-4	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+79-94-7	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+56-53-1	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+50-28-2	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+208-96-8	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+83-32-9	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+2465-27-2	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+55406-53-6	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+115-86-6	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+860302-33-6	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+439-14-5	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+56-38-2	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+203-64-5	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+58-89-9	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+116-06-3	Microphthalmia/Cyclopia	Biobide	AC50	2dpf
+79-94-7	Head edema	Biobide	AC50	2dpf
+50-28-2	Head edema	Biobide	AC50	2dpf
+79-94-7	Heart edema/irregular shape	Biobide	AC50	2dpf
+50-28-2	Heart edema/irregular shape	Biobide	AC50	2dpf
+208-96-8	Heart edema/irregular shape	Biobide	AC50	2dpf
+83-32-9	Heart edema/irregular shape	Biobide	AC50	2dpf
+2465-27-2	Heart edema/irregular shape	Biobide	AC50	2dpf
+55406-53-6	Heart edema/irregular shape	Biobide	AC50	2dpf
+115-86-6	Heart edema/irregular shape	Biobide	AC50	2dpf
+860302-33-6	Heart edema/irregular shape	Biobide	AC50	2dpf
+439-14-5	Heart edema/irregular shape	Biobide	AC50	2dpf
+56-38-2	Heart edema/irregular shape	Biobide	AC50	2dpf
+83-79-4	Heart edema/irregular shape	Biobide	AC50	2dpf
+85-01-8	Heart edema/irregular shape	Biobide	AC50	2dpf
+107534-96-3	Heart edema/irregular shape	Biobide	AC50	2dpf
+115-09-3	Heart edema/irregular shape	Biobide	AC50	2dpf
+56803-37-3	Heart edema/irregular shape	Biobide	AC50	2dpf
+1478-61-1	Heart edema/irregular shape	Biobide	AC50	2dpf
+1746-01-6	Heart edema/irregular shape	Biobide	AC50	2dpf
+68937-41-7	Heart edema/irregular shape	Biobide	AC50	2dpf
+79-94-7	Abnormal heartbeat	Biobide	AC50	2dpf
+860302-33-6	Abnormal heartbeat	Biobide	AC50	2dpf
+56-53-1	Abnormal heartbeat	Biobide	AC50	2dpf
+79-94-7	Length alteration	Biobide	AC50	2dpf
+860302-33-6	Length alteration	Biobide	AC50	2dpf
+56-53-1	Length alteration	Biobide	AC50	2dpf
+50-28-2	Length alteration	Biobide	AC50	2dpf
+208-96-8	Length alteration	Biobide	AC50	2dpf
+2465-27-2	Length alteration	Biobide	AC50	2dpf
+55406-53-6	Length alteration	Biobide	AC50	2dpf
+115-86-6	Length alteration	Biobide	AC50	2dpf
+439-14-5	Length alteration	Biobide	AC50	2dpf
+56-38-2	Length alteration	Biobide	AC50	2dpf
+83-79-4	Length alteration	Biobide	AC50	2dpf
+85-01-8	Length alteration	Biobide	AC50	2dpf
+115-09-3	Length alteration	Biobide	AC50	2dpf
+56803-37-3	Length alteration	Biobide	AC50	2dpf
+1478-61-1	Length alteration	Biobide	AC50	2dpf
+68937-41-7	Length alteration	Biobide	AC50	2dpf
+70-30-4	Length alteration	Biobide	AC50	2dpf
+116-06-3	Length alteration	Biobide	AC50	2dpf
+2001-95-8	Length alteration	Biobide	AC50	2dpf
+133-06-2	Length alteration	Biobide	AC50	2dpf
+79-94-7	Curved/curled	Biobide	AC50	2dpf
+56-53-1	Curved/curled	Biobide	AC50	2dpf
+50-28-2	Curved/curled	Biobide	AC50	2dpf
+208-96-8	Curved/curled	Biobide	AC50	2dpf
+2465-27-2	Curved/curled	Biobide	AC50	2dpf
+55406-53-6	Curved/curled	Biobide	AC50	2dpf
+115-86-6	Curved/curled	Biobide	AC50	2dpf
+56-38-2	Curved/curled	Biobide	AC50	2dpf
+83-79-4	Curved/curled	Biobide	AC50	2dpf
+85-01-8	Curved/curled	Biobide	AC50	2dpf
+56803-37-3	Curved/curled	Biobide	AC50	2dpf
+1478-61-1	Curved/curled	Biobide	AC50	2dpf
+68937-41-7	Curved/curled	Biobide	AC50	2dpf
+2001-95-8	Curved/curled	Biobide	AC50	2dpf
+133-06-2	Curved/curled	Biobide	AC50	2dpf
+107534-96-3	Curved/curled	Biobide	AC50	2dpf
+58-89-9	Curved/curled	Biobide	AC50	2dpf
+86-73-7	Curved/curled	Biobide	AC50	2dpf
+56-35-9	Curved/curled	Biobide	AC50	2dpf
+79-94-7	Notochord morphology	Biobide	AC50	2dpf
+70-30-4	Notochord morphology	Biobide	AC50	2dpf
+83-32-9	Somite morphology	Biobide	AC50	2dpf
+83-32-9	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+79-94-7	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+70-30-4	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+56-53-1	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+50-28-2	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+2465-27-2	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+55406-53-6	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+56-38-2	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+83-79-4	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+85-01-8	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+1478-61-1	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+2001-95-8	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+133-06-2	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+107534-96-3	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+56-35-9	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+439-14-5	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+115-09-3	Malformation of the tail (including tail fins)	Biobide	AC50	2dpf
+83-32-9	Yolk edema	Biobide	AC50	2dpf
+79-94-7	Yolk edema	Biobide	AC50	2dpf
+56-53-1	Yolk edema	Biobide	AC50	2dpf
+50-28-2	Yolk edema	Biobide	AC50	2dpf
+2465-27-2	Yolk edema	Biobide	AC50	2dpf
+55406-53-6	Yolk edema	Biobide	AC50	2dpf
+85-01-8	Yolk edema	Biobide	AC50	2dpf
+2001-95-8	Yolk edema	Biobide	AC50	2dpf
+107534-96-3	Yolk edema	Biobide	AC50	2dpf
+115-86-6	Yolk edema	Biobide	AC50	2dpf
+56803-37-3	Yolk edema	Biobide	AC50	2dpf
+68937-41-7	Yolk edema	Biobide	AC50	2dpf
+58-89-9	Yolk edema	Biobide	AC50	2dpf
+86-73-7	Yolk edema	Biobide	AC50	2dpf
+860302-33-6	Yolk edema	Biobide	AC50	2dpf
+203-64-5	Yolk edema	Biobide	AC50	2dpf
+56-53-1	Yolk opacity	Biobide	AC50	2dpf
+2465-27-2	Yolk opacity	Biobide	AC50	2dpf
+208-96-8	Yolk opacity	Biobide	AC50	2dpf
+208-96-8	Other effects	Biobide	AC50	2dpf
+83-32-9	Other effects	Biobide	AC50	2dpf
+85-01-8	Other effects	Biobide	AC50	2dpf
+2001-95-8	Other effects	Biobide	AC50	2dpf
+83-79-4	Other effects	Biobide	AC50	2dpf
+97-77-8	Other effects	Biobide	AC50	2dpf
+80-05-7	Other effects	Biobide	AC50	2dpf
+56-53-1	Necrotic tissues	Biobide	AC50	2dpf
+79-94-7	Necrotic tissues	Biobide	AC50	2dpf
+50-28-2	Necrotic tissues	Biobide	AC50	2dpf
+70-30-4	Necrotic tissues	Biobide	AC50	2dpf
+56-35-9	Necrotic tissues	Biobide	AC50	2dpf
+1746-01-6	Mortality	Biobide	AC50	4dpf
+2001-95-8	Mortality	Biobide	AC50	4dpf
+56-35-9	Mortality	Biobide	AC50	4dpf
+83-79-4	Mortality	Biobide	AC50	4dpf
+52918-63-5	Mortality	Biobide	AC50	4dpf
+70-30-4	Mortality	Biobide	AC50	4dpf
+115-09-3	Mortality	Biobide	AC50	4dpf
+79-94-7	Mortality	Biobide	AC50	4dpf
+97-77-8	Mortality	Biobide	AC50	4dpf
+55406-53-6	Mortality	Biobide	AC50	4dpf
+2465-27-2	Mortality	Biobide	AC50	4dpf
+56-53-1	Mortality	Biobide	AC50	4dpf
+115-86-6	Mortality	Biobide	AC50	4dpf
+68937-41-7	Mortality	Biobide	AC50	4dpf
+1478-61-1	Mortality	Biobide	AC50	4dpf
+2921-88-2	Mortality	Biobide	AC50	4dpf
+56803-37-3	Mortality	Biobide	AC50	4dpf
+50-28-2	Mortality	Biobide	AC50	4dpf
+1241-94-7	Mortality	Biobide	AC50	4dpf
+1330-78-5	Mortality	Biobide	AC50	4dpf
+860302-33-6	Mortality	Biobide	AC50	4dpf
+439-14-5	Mortality	Biobide	AC50	4dpf
+208-96-8	Mortality	Biobide	AC50	4dpf
+56-38-2	Mortality	Biobide	AC50	4dpf
+85-01-8	Mortality	Biobide	AC50	4dpf
+76-44-8	Mortality	Biobide	AC50	4dpf
+203-64-5	Mortality	Biobide	AC50	4dpf
+107534-96-3	Mortality	Biobide	AC50	4dpf
+80-05-7	Mortality	Biobide	AC50	4dpf
+58-89-9	Mortality	Biobide	AC50	4dpf
+83-32-9	Mortality	Biobide	AC50	4dpf
+133-06-2	Mortality	Biobide	AC50	4dpf
+60-57-1	Jaw morphology	Biobide	AC50	4dpf
+115-09-3	Jaw morphology	Biobide	AC50	4dpf
+52645-53-1	Jaw morphology	Biobide	AC50	4dpf
+50-29-3	Jaw morphology	Biobide	AC50	4dpf
+50-28-2	Jaw morphology	Biobide	AC50	4dpf
+6080-56-4	Jaw morphology	Biobide	AC50	4dpf
+203-64-5	Jaw morphology	Biobide	AC50	4dpf
+1746-01-6	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+56-35-9	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+52918-63-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+2001-95-8	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+83-79-4	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+97-77-8	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+115-09-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+70-30-4	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+60-57-1	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+116-06-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+56-53-1	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+50-29-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+68937-41-7	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+79-94-7	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+115-86-6	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+52645-53-1	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+53-70-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+55406-53-6	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+1478-61-1	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+860302-33-6	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+58-89-9	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+2465-27-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+56-55-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+6080-56-4	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+2921-88-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+76-44-8	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+56803-37-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+207-08-9	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+50-28-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+1330-78-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+56-38-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+439-14-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+1241-94-7	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+63-25-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+85-01-8	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+80-05-7	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+208-96-8	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+203-64-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+107534-96-3	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+83-32-9	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+86-73-7	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+205-99-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+29761-21-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+1069-66-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+133-06-2	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+13674-84-5	Microcephaly or abnormal head shape	Biobide	AC50	4dpf
+1746-01-6	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+2001-95-8	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+83-79-4	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+97-77-8	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+79-94-7	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+115-09-3	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+55406-53-6	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+56-53-1	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+1478-61-1	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+2465-27-2	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+115-86-6	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+68937-41-7	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+56-38-2	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+60-57-1	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+50-28-2	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+1241-94-7	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+1330-78-5	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+439-14-5	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+58-89-9	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+203-64-5	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+208-96-8	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+85-01-8	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+107534-96-3	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+80-05-7	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+83-32-9	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+56-55-3	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+63-25-2	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+86-73-7	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+205-99-2	Microphthalmia/Cyclopia	Biobide	AC50	4dpf
+50-28-2	Malformation of the sacculi/otoliths	Biobide	AC50	4dpf
+208-96-8	Malformation of the sacculi/otoliths	Biobide	AC50	4dpf
+1746-01-6	Heart edema/irregular shape	Biobide	AC50	4dpf
+56-35-9	Heart edema/irregular shape	Biobide	AC50	4dpf
+2001-95-8	Heart edema/irregular shape	Biobide	AC50	4dpf
+83-79-4	Heart edema/irregular shape	Biobide	AC50	4dpf
+52918-63-5	Heart edema/irregular shape	Biobide	AC50	4dpf
+115-09-3	Heart edema/irregular shape	Biobide	AC50	4dpf
+97-77-8	Heart edema/irregular shape	Biobide	AC50	4dpf
+70-30-4	Heart edema/irregular shape	Biobide	AC50	4dpf
+68937-41-7	Heart edema/irregular shape	Biobide	AC50	4dpf
+79-94-7	Heart edema/irregular shape	Biobide	AC50	4dpf
+56-53-1	Heart edema/irregular shape	Biobide	AC50	4dpf
+115-86-6	Heart edema/irregular shape	Biobide	AC50	4dpf
+860302-33-6	Heart edema/irregular shape	Biobide	AC50	4dpf
+50-29-3	Heart edema/irregular shape	Biobide	AC50	4dpf
+52645-53-1	Heart edema/irregular shape	Biobide	AC50	4dpf
+55406-53-6	Heart edema/irregular shape	Biobide	AC50	4dpf
+1478-61-1	Heart edema/irregular shape	Biobide	AC50	4dpf
+2465-27-2	Heart edema/irregular shape	Biobide	AC50	4dpf
+58-89-9	Heart edema/irregular shape	Biobide	AC50	4dpf
+56803-37-3	Heart edema/irregular shape	Biobide	AC50	4dpf
+56-55-3	Heart edema/irregular shape	Biobide	AC50	4dpf
+60-57-1	Heart edema/irregular shape	Biobide	AC50	4dpf
+1330-78-5	Heart edema/irregular shape	Biobide	AC50	4dpf
+1241-94-7	Heart edema/irregular shape	Biobide	AC50	4dpf
+2921-88-2	Heart edema/irregular shape	Biobide	AC50	4dpf
+439-14-5	Heart edema/irregular shape	Biobide	AC50	4dpf
+50-28-2	Heart edema/irregular shape	Biobide	AC50	4dpf
+56-38-2	Heart edema/irregular shape	Biobide	AC50	4dpf
+76-44-8	Heart edema/irregular shape	Biobide	AC50	4dpf
+116-06-3	Heart edema/irregular shape	Biobide	AC50	4dpf
+85-01-8	Heart edema/irregular shape	Biobide	AC50	4dpf
+80-05-7	Heart edema/irregular shape	Biobide	AC50	4dpf
+203-64-5	Heart edema/irregular shape	Biobide	AC50	4dpf
+208-96-8	Heart edema/irregular shape	Biobide	AC50	4dpf
+107534-96-3	Heart edema/irregular shape	Biobide	AC50	4dpf
+83-32-9	Heart edema/irregular shape	Biobide	AC50	4dpf
+63-25-2	Heart edema/irregular shape	Biobide	AC50	4dpf
+86-73-7	Heart edema/irregular shape	Biobide	AC50	4dpf
+29761-21-5	Heart edema/irregular shape	Biobide	AC50	4dpf
+205-99-2	Heart edema/irregular shape	Biobide	AC50	4dpf
+1069-66-5	Heart edema/irregular shape	Biobide	AC50	4dpf
+1330-78-5	Abnormal heartbeat	Biobide	AC50	4dpf
+1241-94-7	Abnormal heartbeat	Biobide	AC50	4dpf
+85-01-8	Abnormal heartbeat	Biobide	AC50	4dpf
+63-25-2	Abnormal heartbeat	Biobide	AC50	4dpf
+1746-01-6	Length alteration	Biobide	AC50	4dpf
+2001-95-8	Length alteration	Biobide	AC50	4dpf
+56-35-9	Length alteration	Biobide	AC50	4dpf
+97-77-8	Length alteration	Biobide	AC50	4dpf
+115-09-3	Length alteration	Biobide	AC50	4dpf
+70-30-4	Length alteration	Biobide	AC50	4dpf
+79-94-7	Length alteration	Biobide	AC50	4dpf
+115-86-6	Length alteration	Biobide	AC50	4dpf
+68937-41-7	Length alteration	Biobide	AC50	4dpf
+55406-53-6	Length alteration	Biobide	AC50	4dpf
+116-06-3	Length alteration	Biobide	AC50	4dpf
+860302-33-6	Length alteration	Biobide	AC50	4dpf
+2465-27-2	Length alteration	Biobide	AC50	4dpf
+63-25-2	Length alteration	Biobide	AC50	4dpf
+56803-37-3	Length alteration	Biobide	AC50	4dpf
+56-53-1	Length alteration	Biobide	AC50	4dpf
+52645-53-1	Length alteration	Biobide	AC50	4dpf
+2921-88-2	Length alteration	Biobide	AC50	4dpf
+50-28-2	Length alteration	Biobide	AC50	4dpf
+56-38-2	Length alteration	Biobide	AC50	4dpf
+58-89-9	Length alteration	Biobide	AC50	4dpf
+439-14-5	Length alteration	Biobide	AC50	4dpf
+1478-61-1	Length alteration	Biobide	AC50	4dpf
+1241-94-7	Length alteration	Biobide	AC50	4dpf
+56-55-3	Length alteration	Biobide	AC50	4dpf
+208-96-8	Length alteration	Biobide	AC50	4dpf
+203-64-5	Length alteration	Biobide	AC50	4dpf
+85-01-8	Length alteration	Biobide	AC50	4dpf
+83-32-9	Length alteration	Biobide	AC50	4dpf
+1746-01-6	Curved/curled	Biobide	AC50	4dpf
+56-35-9	Curved/curled	Biobide	AC50	4dpf
+2001-95-8	Curved/curled	Biobide	AC50	4dpf
+52918-63-5	Curved/curled	Biobide	AC50	4dpf
+83-79-4	Curved/curled	Biobide	AC50	4dpf
+97-77-8	Curved/curled	Biobide	AC50	4dpf
+115-09-3	Curved/curled	Biobide	AC50	4dpf
+70-30-4	Curved/curled	Biobide	AC50	4dpf
+79-94-7	Curved/curled	Biobide	AC50	4dpf
+50-29-3	Curved/curled	Biobide	AC50	4dpf
+55406-53-6	Curved/curled	Biobide	AC50	4dpf
+115-86-6	Curved/curled	Biobide	AC50	4dpf
+52645-53-1	Curved/curled	Biobide	AC50	4dpf
+56-53-1	Curved/curled	Biobide	AC50	4dpf
+2465-27-2	Curved/curled	Biobide	AC50	4dpf
+68937-41-7	Curved/curled	Biobide	AC50	4dpf
+2921-88-2	Curved/curled	Biobide	AC50	4dpf
+56803-37-3	Curved/curled	Biobide	AC50	4dpf
+860302-33-6	Curved/curled	Biobide	AC50	4dpf
+56-38-2	Curved/curled	Biobide	AC50	4dpf
+50-28-2	Curved/curled	Biobide	AC50	4dpf
+1478-61-1	Curved/curled	Biobide	AC50	4dpf
+203-64-5	Curved/curled	Biobide	AC50	4dpf
+439-14-5	Curved/curled	Biobide	AC50	4dpf
+85-01-8	Curved/curled	Biobide	AC50	4dpf
+76-44-8	Curved/curled	Biobide	AC50	4dpf
+58-89-9	Curved/curled	Biobide	AC50	4dpf
+6080-56-4	Curved/curled	Biobide	AC50	4dpf
+86-73-7	Curved/curled	Biobide	AC50	4dpf
+208-96-8	Curved/curled	Biobide	AC50	4dpf
+83-32-9	Curved/curled	Biobide	AC50	4dpf
+1330-78-5	Curved/curled	Biobide	AC50	4dpf
+63-25-2	Curved/curled	Biobide	AC50	4dpf
+116-06-3	Curved/curled	Biobide	AC50	4dpf
+5436-43-1	Curved/curled	Biobide	AC50	4dpf
+129-00-0	Curved/curled	Biobide	AC50	4dpf
+107534-96-3	Curved/curled	Biobide	AC50	4dpf
+56-55-3	Curved/curled	Biobide	AC50	4dpf
+133-06-2	Curved/curled	Biobide	AC50	4dpf
+97-77-8	Notochord morphology	Biobide	AC50	4dpf
+2001-95-8	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+83-79-4	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+70-30-4	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+207-08-9	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+55406-53-6	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+1478-61-1	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+439-14-5	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+53-70-3	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+80-05-7	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+133-06-2	Malformation of the tail (including tail fins)	Biobide	AC50	4dpf
+1746-01-6	Yolk edema	Biobide	AC50	4dpf
+56-35-9	Yolk edema	Biobide	AC50	4dpf
+2001-95-8	Yolk edema	Biobide	AC50	4dpf
+52918-63-5	Yolk edema	Biobide	AC50	4dpf
+83-79-4	Yolk edema	Biobide	AC50	4dpf
+70-30-4	Yolk edema	Biobide	AC50	4dpf
+115-09-3	Yolk edema	Biobide	AC50	4dpf
+79-94-7	Yolk edema	Biobide	AC50	4dpf
+55406-53-6	Yolk edema	Biobide	AC50	4dpf
+56-53-1	Yolk edema	Biobide	AC50	4dpf
+2465-27-2	Yolk edema	Biobide	AC50	4dpf
+68937-41-7	Yolk edema	Biobide	AC50	4dpf
+1478-61-1	Yolk edema	Biobide	AC50	4dpf
+115-86-6	Yolk edema	Biobide	AC50	4dpf
+50-29-3	Yolk edema	Biobide	AC50	4dpf
+1330-78-5	Yolk edema	Biobide	AC50	4dpf
+1241-94-7	Yolk edema	Biobide	AC50	4dpf
+2921-88-2	Yolk edema	Biobide	AC50	4dpf
+56-38-2	Yolk edema	Biobide	AC50	4dpf
+50-28-2	Yolk edema	Biobide	AC50	4dpf
+439-14-5	Yolk edema	Biobide	AC50	4dpf
+56803-37-3	Yolk edema	Biobide	AC50	4dpf
+203-64-5	Yolk edema	Biobide	AC50	4dpf
+860302-33-6	Yolk edema	Biobide	AC50	4dpf
+208-96-8	Yolk edema	Biobide	AC50	4dpf
+56-55-3	Yolk edema	Biobide	AC50	4dpf
+76-44-8	Yolk edema	Biobide	AC50	4dpf
+85-01-8	Yolk edema	Biobide	AC50	4dpf
+60-57-1	Yolk edema	Biobide	AC50	4dpf
+107534-96-3	Yolk edema	Biobide	AC50	4dpf
+83-32-9	Yolk edema	Biobide	AC50	4dpf
+86-73-7	Yolk edema	Biobide	AC50	4dpf
+58-89-9	Yolk edema	Biobide	AC50	4dpf
+80-05-7	Yolk edema	Biobide	AC50	4dpf
+1746-01-6	Yolk opacity	Biobide	AC50	4dpf
+56-35-9	Yolk opacity	Biobide	AC50	4dpf
+52918-63-5	Yolk opacity	Biobide	AC50	4dpf
+2001-95-8	Yolk opacity	Biobide	AC50	4dpf
+83-79-4	Yolk opacity	Biobide	AC50	4dpf
+115-09-3	Yolk opacity	Biobide	AC50	4dpf
+70-30-4	Yolk opacity	Biobide	AC50	4dpf
+60-57-1	Yolk opacity	Biobide	AC50	4dpf
+79-94-7	Yolk opacity	Biobide	AC50	4dpf
+97-77-8	Yolk opacity	Biobide	AC50	4dpf
+50-29-3	Yolk opacity	Biobide	AC50	4dpf
+52645-53-1	Yolk opacity	Biobide	AC50	4dpf
+55406-53-6	Yolk opacity	Biobide	AC50	4dpf
+2921-88-2	Yolk opacity	Biobide	AC50	4dpf
+56-53-1	Yolk opacity	Biobide	AC50	4dpf
+1478-61-1	Yolk opacity	Biobide	AC50	4dpf
+2465-27-2	Yolk opacity	Biobide	AC50	4dpf
+115-86-6	Yolk opacity	Biobide	AC50	4dpf
+68937-41-7	Yolk opacity	Biobide	AC50	4dpf
+76-44-8	Yolk opacity	Biobide	AC50	4dpf
+1330-78-5	Yolk opacity	Biobide	AC50	4dpf
+50-28-2	Yolk opacity	Biobide	AC50	4dpf
+56803-37-3	Yolk opacity	Biobide	AC50	4dpf
+1241-94-7	Yolk opacity	Biobide	AC50	4dpf
+439-14-5	Yolk opacity	Biobide	AC50	4dpf
+56-38-2	Yolk opacity	Biobide	AC50	4dpf
+107534-96-3	Yolk opacity	Biobide	AC50	4dpf
+85-01-8	Yolk opacity	Biobide	AC50	4dpf
+208-96-8	Yolk opacity	Biobide	AC50	4dpf
+203-64-5	Yolk opacity	Biobide	AC50	4dpf
+860302-33-6	Yolk opacity	Biobide	AC50	4dpf
+63-25-2	Yolk opacity	Biobide	AC50	4dpf
+58-89-9	Yolk opacity	Biobide	AC50	4dpf
+83-32-9	Yolk opacity	Biobide	AC50	4dpf
+56-55-3	Yolk opacity	Biobide	AC50	4dpf
+86-73-7	Yolk opacity	Biobide	AC50	4dpf
+85-01-8	Somite morphology	Biobide	AC50	4dpf
+207-08-9	Other effects	Biobide	AC50	4dpf
+83-79-4	Other effects	Biobide	AC50	4dpf
+129-00-0	Other effects	Biobide	AC50	4dpf
+53-70-3	Other effects	Biobide	AC50	4dpf
+52645-53-1	Other effects	Biobide	AC50	4dpf
+50-29-3	Other effects	Biobide	AC50	4dpf
+50-28-2	Other effects	Biobide	AC50	4dpf
+56-38-2	Other effects	Biobide	AC50	4dpf
+133-06-2	Other effects	Biobide	AC50	4dpf
+1746-01-6	Hatching	Biobide	AC50	4dpf
+83-79-4	Hatching	Biobide	AC50	4dpf
+97-77-8	Hatching	Biobide	AC50	4dpf
+70-30-4	Hatching	Biobide	AC50	4dpf
+56-53-1	Hatching	Biobide	AC50	4dpf
+115-09-3	Hatching	Biobide	AC50	4dpf
+1478-61-1	Hatching	Biobide	AC50	4dpf
+50-28-2	Hatching	Biobide	AC50	4dpf
+439-14-5	Hatching	Biobide	AC50	4dpf
+1241-94-7	Hatching	Biobide	AC50	4dpf
+80-05-7	Hatching	Biobide	AC50	4dpf
+56-38-2	Hatching	Biobide	AC50	4dpf
+107534-96-3	Hatching	Biobide	AC50	4dpf
+860302-33-6	Hatching	Biobide	AC50	4dpf
+208-96-8	Hatching	Biobide	AC50	4dpf
+58-89-9	Hatching	Biobide	AC50	4dpf
+83-79-4	Necrotic tissues	Biobide	AC50	4dpf
+97-77-8	Necrotic tissues	Biobide	AC50	4dpf
+79-94-7	Necrotic tissues	Biobide	AC50	4dpf
+115-09-3	Necrotic tissues	Biobide	AC50	4dpf
+56-53-1	Necrotic tissues	Biobide	AC50	4dpf
+115-86-6	Necrotic tissues	Biobide	AC50	4dpf
+68937-41-7	Necrotic tissues	Biobide	AC50	4dpf
+1478-61-1	Necrotic tissues	Biobide	AC50	4dpf
+56803-37-3	Necrotic tissues	Biobide	AC50	4dpf
+1241-94-7	Necrotic tissues	Biobide	AC50	4dpf
+860302-33-6	Necrotic tissues	Biobide	AC50	4dpf
+439-14-5	Necrotic tissues	Biobide	AC50	4dpf
+1330-78-5	Necrotic tissues	Biobide	AC50	4dpf
+1746-01-6	Mortality	Biobide	LEL	4dpf
+2001-95-8	Mortality	Biobide	LEL	4dpf
+83-79-4	Mortality	Biobide	LEL	4dpf
+52918-63-5	Mortality	Biobide	LEL	4dpf
+56-35-9	Mortality	Biobide	LEL	4dpf
+115-09-3	Mortality	Biobide	LEL	4dpf
+70-30-4	Mortality	Biobide	LEL	4dpf
+79-94-7	Mortality	Biobide	LEL	4dpf
+55406-53-6	Mortality	Biobide	LEL	4dpf
+2465-27-2	Mortality	Biobide	LEL	4dpf
+97-77-8	Mortality	Biobide	LEL	4dpf
+56-53-1	Mortality	Biobide	LEL	4dpf
+115-86-6	Mortality	Biobide	LEL	4dpf
+68937-41-7	Mortality	Biobide	LEL	4dpf
+1241-94-7	Mortality	Biobide	LEL	4dpf
+1330-78-5	Mortality	Biobide	LEL	4dpf
+2921-88-2	Mortality	Biobide	LEL	4dpf
+56803-37-3	Mortality	Biobide	LEL	4dpf
+1478-61-1	Mortality	Biobide	LEL	4dpf
+50-28-2	Mortality	Biobide	LEL	4dpf
+203-64-5	Mortality	Biobide	LEL	4dpf
+56-38-2	Mortality	Biobide	LEL	4dpf
+860302-33-6	Mortality	Biobide	LEL	4dpf
+208-96-8	Mortality	Biobide	LEL	4dpf
+83-32-9	Mortality	Biobide	LEL	4dpf
+85-01-8	Mortality	Biobide	LEL	4dpf
+86-73-7	Mortality	Biobide	LEL	4dpf
+439-14-5	Mortality	Biobide	LEL	4dpf
+58-89-9	Mortality	Biobide	LEL	4dpf
+76-44-8	Mortality	Biobide	LEL	4dpf
+107534-96-3	Mortality	Biobide	LEL	4dpf
+80-05-7	Mortality	Biobide	LEL	4dpf
+133-06-2	Mortality	Biobide	LEL	4dpf
+52918-63-5	Jaw morphology	Biobide	LEL	4dpf
+60-57-1	Jaw morphology	Biobide	LEL	4dpf
+52645-53-1	Jaw morphology	Biobide	LEL	4dpf
+50-29-3	Jaw morphology	Biobide	LEL	4dpf
+50-28-2	Jaw morphology	Biobide	LEL	4dpf
+6080-56-4	Jaw morphology	Biobide	LEL	4dpf
+203-64-5	Jaw morphology	Biobide	LEL	4dpf
+1746-01-6	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+2001-95-8	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+52918-63-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+83-79-4	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+56-35-9	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+115-09-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+97-77-8	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+60-57-1	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+70-30-4	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+56-53-1	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+116-06-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+79-94-7	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+52645-53-1	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+50-29-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+115-86-6	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+68937-41-7	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+53-70-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+1478-61-1	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+58-89-9	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+6080-56-4	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+2465-27-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+860302-33-6	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+207-08-9	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+2921-88-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+56803-37-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+76-44-8	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+56-55-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+50-28-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+1241-94-7	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+1330-78-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+56-38-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+208-96-8	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+85-01-8	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+439-14-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+80-05-7	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+63-25-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+203-64-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+83-32-9	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+86-73-7	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+107534-96-3	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+29761-21-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+133-06-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+13674-84-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+1069-66-5	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+205-99-2	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+64-86-8	Microcephaly or abnormal head shape	Biobide	LEL	4dpf
+1746-01-6	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+83-79-4	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+97-77-8	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+79-94-7	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+56-53-1	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+60-57-1	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+115-86-6	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+68937-41-7	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+1478-61-1	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+2465-27-2	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+58-89-9	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+50-28-2	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+1241-94-7	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+56-38-2	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+203-64-5	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+208-96-8	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+85-01-8	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+439-14-5	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+80-05-7	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+107534-96-3	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+56-55-3	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+83-32-9	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+86-73-7	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+63-25-2	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+205-99-2	Microphthalmia/Cyclopia	Biobide	LEL	4dpf
+50-28-2	Malformation of the sacculi/otoliths	Biobide	LEL	4dpf
+1746-01-6	Heart edema/irregular shape	Biobide	LEL	4dpf
+52918-63-5	Heart edema/irregular shape	Biobide	LEL	4dpf
+56-35-9	Heart edema/irregular shape	Biobide	LEL	4dpf
+83-79-4	Heart edema/irregular shape	Biobide	LEL	4dpf
+97-77-8	Heart edema/irregular shape	Biobide	LEL	4dpf
+115-09-3	Heart edema/irregular shape	Biobide	LEL	4dpf
+70-30-4	Heart edema/irregular shape	Biobide	LEL	4dpf
+68937-41-7	Heart edema/irregular shape	Biobide	LEL	4dpf
+79-94-7	Heart edema/irregular shape	Biobide	LEL	4dpf
+56-53-1	Heart edema/irregular shape	Biobide	LEL	4dpf
+60-57-1	Heart edema/irregular shape	Biobide	LEL	4dpf
+115-86-6	Heart edema/irregular shape	Biobide	LEL	4dpf
+116-06-3	Heart edema/irregular shape	Biobide	LEL	4dpf
+50-29-3	Heart edema/irregular shape	Biobide	LEL	4dpf
+860302-33-6	Heart edema/irregular shape	Biobide	LEL	4dpf
+58-89-9	Heart edema/irregular shape	Biobide	LEL	4dpf
+1478-61-1	Heart edema/irregular shape	Biobide	LEL	4dpf
+2465-27-2	Heart edema/irregular shape	Biobide	LEL	4dpf
+52645-53-1	Heart edema/irregular shape	Biobide	LEL	4dpf
+56-55-3	Heart edema/irregular shape	Biobide	LEL	4dpf
+56803-37-3	Heart edema/irregular shape	Biobide	LEL	4dpf
+1241-94-7	Heart edema/irregular shape	Biobide	LEL	4dpf
+1330-78-5	Heart edema/irregular shape	Biobide	LEL	4dpf
+50-28-2	Heart edema/irregular shape	Biobide	LEL	4dpf
+56-38-2	Heart edema/irregular shape	Biobide	LEL	4dpf
+85-01-8	Heart edema/irregular shape	Biobide	LEL	4dpf
+439-14-5	Heart edema/irregular shape	Biobide	LEL	4dpf
+80-05-7	Heart edema/irregular shape	Biobide	LEL	4dpf
+76-44-8	Heart edema/irregular shape	Biobide	LEL	4dpf
+203-64-5	Heart edema/irregular shape	Biobide	LEL	4dpf
+208-96-8	Heart edema/irregular shape	Biobide	LEL	4dpf
+107534-96-3	Heart edema/irregular shape	Biobide	LEL	4dpf
+83-32-9	Heart edema/irregular shape	Biobide	LEL	4dpf
+63-25-2	Heart edema/irregular shape	Biobide	LEL	4dpf
+29761-21-5	Heart edema/irregular shape	Biobide	LEL	4dpf
+86-73-7	Heart edema/irregular shape	Biobide	LEL	4dpf
+205-99-2	Heart edema/irregular shape	Biobide	LEL	4dpf
+1069-66-5	Heart edema/irregular shape	Biobide	LEL	4dpf
+1241-94-7	Abnormal heartbeat	Biobide	LEL	4dpf
+1330-78-5	Abnormal heartbeat	Biobide	LEL	4dpf
+85-01-8	Abnormal heartbeat	Biobide	LEL	4dpf
+63-25-2	Abnormal heartbeat	Biobide	LEL	4dpf
+1746-01-6	Length alteration	Biobide	LEL	4dpf
+2001-95-8	Length alteration	Biobide	LEL	4dpf
+97-77-8	Length alteration	Biobide	LEL	4dpf
+115-09-3	Length alteration	Biobide	LEL	4dpf
+115-86-6	Length alteration	Biobide	LEL	4dpf
+116-06-3	Length alteration	Biobide	LEL	4dpf
+50-29-3	Length alteration	Biobide	LEL	4dpf
+52645-53-1	Length alteration	Biobide	LEL	4dpf
+68937-41-7	Length alteration	Biobide	LEL	4dpf
+860302-33-6	Length alteration	Biobide	LEL	4dpf
+2465-27-2	Length alteration	Biobide	LEL	4dpf
+2921-88-2	Length alteration	Biobide	LEL	4dpf
+63-25-2	Length alteration	Biobide	LEL	4dpf
+58-89-9	Length alteration	Biobide	LEL	4dpf
+56803-37-3	Length alteration	Biobide	LEL	4dpf
+50-28-2	Length alteration	Biobide	LEL	4dpf
+56-38-2	Length alteration	Biobide	LEL	4dpf
+439-14-5	Length alteration	Biobide	LEL	4dpf
+56-55-3	Length alteration	Biobide	LEL	4dpf
+203-64-5	Length alteration	Biobide	LEL	4dpf
+83-32-9	Length alteration	Biobide	LEL	4dpf
+133-06-2	Length alteration	Biobide	LEL	4dpf
+29761-21-5	Length alteration	Biobide	LEL	4dpf
+1746-01-6	Curved/curled	Biobide	LEL	4dpf
+2001-95-8	Curved/curled	Biobide	LEL	4dpf
+52918-63-5	Curved/curled	Biobide	LEL	4dpf
+56-35-9	Curved/curled	Biobide	LEL	4dpf
+97-77-8	Curved/curled	Biobide	LEL	4dpf
+115-09-3	Curved/curled	Biobide	LEL	4dpf
+79-94-7	Curved/curled	Biobide	LEL	4dpf
+50-29-3	Curved/curled	Biobide	LEL	4dpf
+52645-53-1	Curved/curled	Biobide	LEL	4dpf
+115-86-6	Curved/curled	Biobide	LEL	4dpf
+116-06-3	Curved/curled	Biobide	LEL	4dpf
+2465-27-2	Curved/curled	Biobide	LEL	4dpf
+6080-56-4	Curved/curled	Biobide	LEL	4dpf
+56-53-1	Curved/curled	Biobide	LEL	4dpf
+2921-88-2	Curved/curled	Biobide	LEL	4dpf
+68937-41-7	Curved/curled	Biobide	LEL	4dpf
+860302-33-6	Curved/curled	Biobide	LEL	4dpf
+50-28-2	Curved/curled	Biobide	LEL	4dpf
+56803-37-3	Curved/curled	Biobide	LEL	4dpf
+56-38-2	Curved/curled	Biobide	LEL	4dpf
+129-00-0	Curved/curled	Biobide	LEL	4dpf
+58-89-9	Curved/curled	Biobide	LEL	4dpf
+439-14-5	Curved/curled	Biobide	LEL	4dpf
+203-64-5	Curved/curled	Biobide	LEL	4dpf
+85-01-8	Curved/curled	Biobide	LEL	4dpf
+76-44-8	Curved/curled	Biobide	LEL	4dpf
+208-96-8	Curved/curled	Biobide	LEL	4dpf
+83-32-9	Curved/curled	Biobide	LEL	4dpf
+86-73-7	Curved/curled	Biobide	LEL	4dpf
+63-25-2	Curved/curled	Biobide	LEL	4dpf
+56-55-3	Curved/curled	Biobide	LEL	4dpf
+133-06-2	Curved/curled	Biobide	LEL	4dpf
+5436-43-1	Curved/curled	Biobide	LEL	4dpf
+97-77-8	Notochord morphology	Biobide	LEL	4dpf
+207-08-9	Malformation of the tail (including tail fins)	Biobide	LEL	4dpf
+58-89-9	Malformation of the tail (including tail fins)	Biobide	LEL	4dpf
+53-70-3	Malformation of the tail (including tail fins)	Biobide	LEL	4dpf
+1746-01-6	Yolk edema	Biobide	LEL	4dpf
+56-35-9	Yolk edema	Biobide	LEL	4dpf
+52918-63-5	Yolk edema	Biobide	LEL	4dpf
+115-09-3	Yolk edema	Biobide	LEL	4dpf
+79-94-7	Yolk edema	Biobide	LEL	4dpf
+115-86-6	Yolk edema	Biobide	LEL	4dpf
+2465-27-2	Yolk edema	Biobide	LEL	4dpf
+68937-41-7	Yolk edema	Biobide	LEL	4dpf
+860302-33-6	Yolk edema	Biobide	LEL	4dpf
+1478-61-1	Yolk edema	Biobide	LEL	4dpf
+56-53-1	Yolk edema	Biobide	LEL	4dpf
+50-29-3	Yolk edema	Biobide	LEL	4dpf
+1330-78-5	Yolk edema	Biobide	LEL	4dpf
+50-28-2	Yolk edema	Biobide	LEL	4dpf
+56-38-2	Yolk edema	Biobide	LEL	4dpf
+439-14-5	Yolk edema	Biobide	LEL	4dpf
+56-55-3	Yolk edema	Biobide	LEL	4dpf
+1241-94-7	Yolk edema	Biobide	LEL	4dpf
+60-57-1	Yolk edema	Biobide	LEL	4dpf
+58-89-9	Yolk edema	Biobide	LEL	4dpf
+203-64-5	Yolk edema	Biobide	LEL	4dpf
+85-01-8	Yolk edema	Biobide	LEL	4dpf
+76-44-8	Yolk edema	Biobide	LEL	4dpf
+208-96-8	Yolk edema	Biobide	LEL	4dpf
+107534-96-3	Yolk edema	Biobide	LEL	4dpf
+83-32-9	Yolk edema	Biobide	LEL	4dpf
+86-73-7	Yolk edema	Biobide	LEL	4dpf
+63-25-2	Yolk edema	Biobide	LEL	4dpf
+1746-01-6	Yolk opacity	Biobide	LEL	4dpf
+56-35-9	Yolk opacity	Biobide	LEL	4dpf
+52918-63-5	Yolk opacity	Biobide	LEL	4dpf
+115-09-3	Yolk opacity	Biobide	LEL	4dpf
+60-57-1	Yolk opacity	Biobide	LEL	4dpf
+79-94-7	Yolk opacity	Biobide	LEL	4dpf
+50-29-3	Yolk opacity	Biobide	LEL	4dpf
+97-77-8	Yolk opacity	Biobide	LEL	4dpf
+52645-53-1	Yolk opacity	Biobide	LEL	4dpf
+2465-27-2	Yolk opacity	Biobide	LEL	4dpf
+1478-61-1	Yolk opacity	Biobide	LEL	4dpf
+2921-88-2	Yolk opacity	Biobide	LEL	4dpf
+56-53-1	Yolk opacity	Biobide	LEL	4dpf
+76-44-8	Yolk opacity	Biobide	LEL	4dpf
+115-86-6	Yolk opacity	Biobide	LEL	4dpf
+68937-41-7	Yolk opacity	Biobide	LEL	4dpf
+1330-78-5	Yolk opacity	Biobide	LEL	4dpf
+50-28-2	Yolk opacity	Biobide	LEL	4dpf
+1241-94-7	Yolk opacity	Biobide	LEL	4dpf
+56803-37-3	Yolk opacity	Biobide	LEL	4dpf
+56-38-2	Yolk opacity	Biobide	LEL	4dpf
+439-14-5	Yolk opacity	Biobide	LEL	4dpf
+85-01-8	Yolk opacity	Biobide	LEL	4dpf
+107534-96-3	Yolk opacity	Biobide	LEL	4dpf
+56-55-3	Yolk opacity	Biobide	LEL	4dpf
+58-89-9	Yolk opacity	Biobide	LEL	4dpf
+203-64-5	Yolk opacity	Biobide	LEL	4dpf
+63-25-2	Yolk opacity	Biobide	LEL	4dpf
+83-32-9	Yolk opacity	Biobide	LEL	4dpf
+86-73-7	Yolk opacity	Biobide	LEL	4dpf
+207-08-9	Other effects	Biobide	LEL	4dpf
+53-70-3	Other effects	Biobide	LEL	4dpf
+129-00-0	Other effects	Biobide	LEL	4dpf
+52645-53-1	Other effects	Biobide	LEL	4dpf
+50-29-3	Other effects	Biobide	LEL	4dpf
+133-06-2	Other effects	Biobide	LEL	4dpf
+97-77-8	Hatching	Biobide	LEL	4dpf
+56-53-1	Hatching	Biobide	LEL	4dpf
+1478-61-1	Hatching	Biobide	LEL	4dpf
+50-28-2	Hatching	Biobide	LEL	4dpf
+439-14-5	Hatching	Biobide	LEL	4dpf
+107534-96-3	Hatching	Biobide	LEL	4dpf
+80-05-7	Hatching	Biobide	LEL	4dpf
+58-89-9	Hatching	Biobide	LEL	4dpf
+52918-63-5	Necrotic tissues	Biobide	LEL	4dpf
+97-77-8	Necrotic tissues	Biobide	LEL	4dpf
+56-53-1	Necrotic tissues	Biobide	LEL	4dpf
+1478-61-1	Necrotic tissues	Biobide	LEL	4dpf
+115-86-6	Necrotic tissues	Biobide	LEL	4dpf
+68937-41-7	Necrotic tissues	Biobide	LEL	4dpf
+56803-37-3	Necrotic tissues	Biobide	LEL	4dpf
+1241-94-7	Necrotic tissues	Biobide	LEL	4dpf
+63-25-2	Necrotic tissues	Biobide	LEL	4dpf
+115-09-3	Mortality	Lein	AC50	1dpf
+55406-53-6	Mortality	Lein	AC50	1dpf
+70-30-4	Mortality	Lein	AC50	1dpf
+83-79-4	Mortality	Lein	AC50	1dpf
+79-94-7	Mortality	Lein	AC50	1dpf
+97-77-8	Mortality	Lein	AC50	1dpf
+56-53-1	Mortality	Lein	AC50	1dpf
+1478-61-1	Mortality	Lein	AC50	1dpf
+2001-95-8	Mortality	Lein	AC50	1dpf
+26040-51-7	Mortality	Lein	AC50	1dpf
+2001-95-8	Halted Dev.	Lein	AC50	1dpf
+83-79-4	Halted Dev.	Lein	AC50	1dpf
+2465-27-2	Halted Dev.	Lein	AC50	1dpf
+79-94-7	Halted Dev.	Lein	AC50	1dpf
+70-30-4	Yolk E.	Lein	AC50	1dpf
+70-30-4	Axis	Lein	AC50	1dpf
+79-94-7	Axis	Lein	AC50	1dpf
+56-53-1	Axis	Lein	AC50	1dpf
+439-14-5	Axis	Lein	AC50	1dpf
+70-30-4	Notochord	Lein	AC50	1dpf
+115-09-3	C. Fin	Lein	AC50	1dpf
+70-30-4	C. Fin	Lein	AC50	1dpf
+97-77-8	C. Fin	Lein	AC50	1dpf
+79-94-7	C. Fin	Lein	AC50	1dpf
+56-53-1	C. Fin	Lein	AC50	1dpf
+76-44-8	C. Fin	Lein	AC50	1dpf
+115-09-3	Mortality	Lein	LEL	1dpf
+2001-95-8	Mortality	Lein	LEL	1dpf
+55406-53-6	Mortality	Lein	LEL	1dpf
+70-30-4	Mortality	Lein	LEL	1dpf
+83-79-4	Mortality	Lein	LEL	1dpf
+79-94-7	Mortality	Lein	LEL	1dpf
+1478-61-1	Mortality	Lein	LEL	1dpf
+26040-51-7	Mortality	Lein	LEL	1dpf
+56-53-1	Mortality	Lein	LEL	1dpf
+97-77-8	Mortality	Lein	LEL	1dpf
+2001-95-8	Halted Dev.	Lein	LEL	1dpf
+83-79-4	Halted Dev.	Lein	LEL	1dpf
+2465-27-2	Halted Dev.	Lein	LEL	1dpf
+439-14-5	Halted Dev.	Lein	LEL	1dpf
+50-28-2	Halted Dev.	Lein	LEL	1dpf
+2465-27-2	Craniofacial	Lein	LEL	1dpf
+70-30-4	Axis	Lein	LEL	1dpf
+79-94-7	Axis	Lein	LEL	1dpf
+2465-27-2	Axis	Lein	LEL	1dpf
+439-14-5	Axis	Lein	LEL	1dpf
+50-28-2	Axis	Lein	LEL	1dpf
+115-86-6	Axis	Lein	LEL	1dpf
+1330-78-5	Axis	Lein	LEL	1dpf
+52918-63-5	Axis	Lein	LEL	1dpf
+79-94-7	C. Fin	Lein	LEL	1dpf
+76-44-8	C. Fin	Lein	LEL	1dpf
+1746-01-6	Mortality	Lein	AC50	2dpf
+2001-95-8	Mortality	Lein	AC50	2dpf
+115-09-3	Mortality	Lein	AC50	2dpf
+56-35-9	Mortality	Lein	AC50	2dpf
+83-79-4	Mortality	Lein	AC50	2dpf
+55406-53-6	Mortality	Lein	AC50	2dpf
+70-30-4	Mortality	Lein	AC50	2dpf
+79-94-7	Mortality	Lein	AC50	2dpf
+2465-27-2	Mortality	Lein	AC50	2dpf
+1478-61-1	Mortality	Lein	AC50	2dpf
+97-77-8	Mortality	Lein	AC50	2dpf
+26040-51-7	Mortality	Lein	AC50	2dpf
+56-53-1	Mortality	Lein	AC50	2dpf
+50-28-2	Mortality	Lein	AC50	2dpf
+83-79-4	Halted Dev.	Lein	AC50	2dpf
+115-09-3	Halted Dev.	Lein	AC50	2dpf
+2001-95-8	Halted Dev.	Lein	AC50	2dpf
+79-94-7	Halted Dev.	Lein	AC50	2dpf
+97-77-8	Halted Dev.	Lein	AC50	2dpf
+2465-27-2	Craniofacial	Lein	AC50	2dpf
+97-77-8	Craniofacial	Lein	AC50	2dpf
+2001-95-8	Yolk E.	Lein	AC50	2dpf
+70-30-4	Yolk E.	Lein	AC50	2dpf
+79-94-7	Yolk E.	Lein	AC50	2dpf
+50-28-2	Yolk E.	Lein	AC50	2dpf
+26040-51-7	Yolk E.	Lein	AC50	2dpf
+115-86-6	Yolk E.	Lein	AC50	2dpf
+115-09-3	Par E.	Lein	AC50	2dpf
+70-30-4	Par E.	Lein	AC50	2dpf
+68937-41-7	Par E.	Lein	AC50	2dpf
+860302-33-6	Par E.	Lein	AC50	2dpf
+115-09-3	Axis	Lein	AC50	2dpf
+56-35-9	Axis	Lein	AC50	2dpf
+52918-63-5	Axis	Lein	AC50	2dpf
+2001-95-8	Axis	Lein	AC50	2dpf
+70-30-4	Axis	Lein	AC50	2dpf
+79-94-7	Axis	Lein	AC50	2dpf
+56-53-1	Axis	Lein	AC50	2dpf
+2465-27-2	Axis	Lein	AC50	2dpf
+1478-61-1	Axis	Lein	AC50	2dpf
+50-29-3	Axis	Lein	AC50	2dpf
+439-14-5	Axis	Lein	AC50	2dpf
+68937-41-7	Axis	Lein	AC50	2dpf
+50-28-2	Axis	Lein	AC50	2dpf
+56803-37-3	Axis	Lein	AC50	2dpf
+52645-53-1	Axis	Lein	AC50	2dpf
+60-57-1	Axis	Lein	AC50	2dpf
+115-86-6	Axis	Lein	AC50	2dpf
+76-44-8	Axis	Lein	AC50	2dpf
+70-30-4	Notochord	Lein	AC50	2dpf
+115-09-3	C. Fin	Lein	AC50	2dpf
+2001-95-8	C. Fin	Lein	AC50	2dpf
+56-35-9	C. Fin	Lein	AC50	2dpf
+70-30-4	C. Fin	Lein	AC50	2dpf
+79-94-7	C. Fin	Lein	AC50	2dpf
+97-77-8	C. Fin	Lein	AC50	2dpf
+76-44-8	C. Fin	Lein	AC50	2dpf
+1746-01-6	Mortality	Lein	LEL	2dpf
+2001-95-8	Mortality	Lein	LEL	2dpf
+115-09-3	Mortality	Lein	LEL	2dpf
+56-35-9	Mortality	Lein	LEL	2dpf
+83-79-4	Mortality	Lein	LEL	2dpf
+55406-53-6	Mortality	Lein	LEL	2dpf
+70-30-4	Mortality	Lein	LEL	2dpf
+79-94-7	Mortality	Lein	LEL	2dpf
+2465-27-2	Mortality	Lein	LEL	2dpf
+1478-61-1	Mortality	Lein	LEL	2dpf
+26040-51-7	Mortality	Lein	LEL	2dpf
+50-28-2	Mortality	Lein	LEL	2dpf
+56-53-1	Mortality	Lein	LEL	2dpf
+97-77-8	Mortality	Lein	LEL	2dpf
+83-79-4	Halted Dev.	Lein	LEL	2dpf
+97-77-8	Halted Dev.	Lein	LEL	2dpf
+97-77-8	Craniofacial	Lein	LEL	2dpf
+2465-27-2	Craniofacial	Lein	LEL	2dpf
+439-14-5	Craniofacial	Lein	LEL	2dpf
+76-44-8	Craniofacial	Lein	LEL	2dpf
+439-14-5	Yolk E.	Lein	LEL	2dpf
+50-28-2	Yolk E.	Lein	LEL	2dpf
+115-86-6	Yolk E.	Lein	LEL	2dpf
+68937-41-7	Yolk E.	Lein	LEL	2dpf
+115-86-6	Par E.	Lein	LEL	2dpf
+68937-41-7	Par E.	Lein	LEL	2dpf
+1330-78-5	Par E.	Lein	LEL	2dpf
+56803-37-3	Par E.	Lein	LEL	2dpf
+860302-33-6	Par E.	Lein	LEL	2dpf
+1330-78-5	Red heart	Lein	LEL	2dpf
+115-09-3	Axis	Lein	LEL	2dpf
+52918-63-5	Axis	Lein	LEL	2dpf
+97-77-8	Axis	Lein	LEL	2dpf
+79-94-7	Axis	Lein	LEL	2dpf
+116-06-3	Axis	Lein	LEL	2dpf
+2465-27-2	Axis	Lein	LEL	2dpf
+1478-61-1	Axis	Lein	LEL	2dpf
+56-53-1	Axis	Lein	LEL	2dpf
+50-29-3	Axis	Lein	LEL	2dpf
+1330-78-5	Axis	Lein	LEL	2dpf
+115-86-6	Axis	Lein	LEL	2dpf
+68937-41-7	Axis	Lein	LEL	2dpf
+56803-37-3	Axis	Lein	LEL	2dpf
+860302-33-6	Axis	Lein	LEL	2dpf
+439-14-5	Axis	Lein	LEL	2dpf
+50-28-2	Axis	Lein	LEL	2dpf
+76-44-8	Axis	Lein	LEL	2dpf
+52645-53-1	Axis	Lein	LEL	2dpf
+56-55-3	Axis	Lein	LEL	2dpf
+60-57-1	Axis	Lein	LEL	2dpf
+76-44-8	C. Fin	Lein	LEL	2dpf
+1746-01-6	Mortality	Lein	AC50	3dpf
+2001-95-8	Mortality	Lein	AC50	3dpf
+83-79-4	Mortality	Lein	AC50	3dpf
+115-09-3	Mortality	Lein	AC50	3dpf
+56-35-9	Mortality	Lein	AC50	3dpf
+55406-53-6	Mortality	Lein	AC50	3dpf
+70-30-4	Mortality	Lein	AC50	3dpf
+79-94-7	Mortality	Lein	AC50	3dpf
+2465-27-2	Mortality	Lein	AC50	3dpf
+1478-61-1	Mortality	Lein	AC50	3dpf
+26040-51-7	Mortality	Lein	AC50	3dpf
+97-77-8	Mortality	Lein	AC50	3dpf
+56-53-1	Mortality	Lein	AC50	3dpf
+50-28-2	Mortality	Lein	AC50	3dpf
+83-79-4	Halted Dev.	Lein	AC50	3dpf
+79-94-7	Halted Dev.	Lein	AC50	3dpf
+83-79-4	Craniofacial	Lein	AC50	3dpf
+97-77-8	Craniofacial	Lein	AC50	3dpf
+2465-27-2	Craniofacial	Lein	AC50	3dpf
+56-53-1	Craniofacial	Lein	AC50	3dpf
+115-09-3	Yolk E.	Lein	AC50	3dpf
+70-30-4	Yolk E.	Lein	AC50	3dpf
+2001-95-8	Yolk E.	Lein	AC50	3dpf
+79-94-7	Yolk E.	Lein	AC50	3dpf
+2465-27-2	Yolk E.	Lein	AC50	3dpf
+56-53-1	Yolk E.	Lein	AC50	3dpf
+115-86-6	Yolk E.	Lein	AC50	3dpf
+68937-41-7	Yolk E.	Lein	AC50	3dpf
+56803-37-3	Yolk E.	Lein	AC50	3dpf
+26040-51-7	Yolk E.	Lein	AC50	3dpf
+860302-33-6	Yolk E.	Lein	AC50	3dpf
+1330-78-5	Yolk E.	Lein	AC50	3dpf
+1746-01-6	Par E.	Lein	AC50	3dpf
+115-09-3	Par E.	Lein	AC50	3dpf
+2001-95-8	Par E.	Lein	AC50	3dpf
+70-30-4	Par E.	Lein	AC50	3dpf
+79-94-7	Par E.	Lein	AC50	3dpf
+2465-27-2	Par E.	Lein	AC50	3dpf
+56-53-1	Par E.	Lein	AC50	3dpf
+115-86-6	Par E.	Lein	AC50	3dpf
+68937-41-7	Par E.	Lein	AC50	3dpf
+56803-37-3	Par E.	Lein	AC50	3dpf
+860302-33-6	Par E.	Lein	AC50	3dpf
+1330-78-5	Par E.	Lein	AC50	3dpf
+97-77-8	Par E.	Lein	AC50	3dpf
+56-55-3	Par E.	Lein	AC50	3dpf
+1330-78-5	Red heart	Lein	AC50	3dpf
+1746-01-6	Axis	Lein	AC50	3dpf
+115-09-3	Axis	Lein	AC50	3dpf
+52918-63-5	Axis	Lein	AC50	3dpf
+83-79-4	Axis	Lein	AC50	3dpf
+70-30-4	Axis	Lein	AC50	3dpf
+79-94-7	Axis	Lein	AC50	3dpf
+56-53-1	Axis	Lein	AC50	3dpf
+2465-27-2	Axis	Lein	AC50	3dpf
+68937-41-7	Axis	Lein	AC50	3dpf
+56803-37-3	Axis	Lein	AC50	3dpf
+1478-61-1	Axis	Lein	AC50	3dpf
+439-14-5	Axis	Lein	AC50	3dpf
+50-29-3	Axis	Lein	AC50	3dpf
+115-86-6	Axis	Lein	AC50	3dpf
+860302-33-6	Axis	Lein	AC50	3dpf
+56-55-3	Axis	Lein	AC50	3dpf
+76-44-8	Axis	Lein	AC50	3dpf
+2001-95-8	Notochord	Lein	AC50	3dpf
+97-77-8	Notochord	Lein	AC50	3dpf
+50-28-2	Notochord	Lein	AC50	3dpf
+56-35-9	C. Fin	Lein	AC50	3dpf
+2001-95-8	C. Fin	Lein	AC50	3dpf
+115-09-3	C. Fin	Lein	AC50	3dpf
+70-30-4	C. Fin	Lein	AC50	3dpf
+79-94-7	C. Fin	Lein	AC50	3dpf
+56803-37-3	C. Fin	Lein	AC50	3dpf
+68937-41-7	C. Fin	Lein	AC50	3dpf
+1746-01-6	Mortality	Lein	LEL	3dpf
+2001-95-8	Mortality	Lein	LEL	3dpf
+115-09-3	Mortality	Lein	LEL	3dpf
+56-35-9	Mortality	Lein	LEL	3dpf
+83-79-4	Mortality	Lein	LEL	3dpf
+55406-53-6	Mortality	Lein	LEL	3dpf
+70-30-4	Mortality	Lein	LEL	3dpf
+79-94-7	Mortality	Lein	LEL	3dpf
+2465-27-2	Mortality	Lein	LEL	3dpf
+1478-61-1	Mortality	Lein	LEL	3dpf
+26040-51-7	Mortality	Lein	LEL	3dpf
+50-28-2	Mortality	Lein	LEL	3dpf
+56-53-1	Mortality	Lein	LEL	3dpf
+76-44-8	Mortality	Lein	LEL	3dpf
+97-77-8	Mortality	Lein	LEL	3dpf
+2465-27-2	Craniofacial	Lein	LEL	3dpf
+56-53-1	Craniofacial	Lein	LEL	3dpf
+97-77-8	Craniofacial	Lein	LEL	3dpf
+439-14-5	Craniofacial	Lein	LEL	3dpf
+79-94-7	Yolk E.	Lein	LEL	3dpf
+2465-27-2	Yolk E.	Lein	LEL	3dpf
+56-53-1	Yolk E.	Lein	LEL	3dpf
+68937-41-7	Yolk E.	Lein	LEL	3dpf
+439-14-5	Yolk E.	Lein	LEL	3dpf
+115-86-6	Yolk E.	Lein	LEL	3dpf
+1241-94-7	Yolk E.	Lein	LEL	3dpf
+1330-78-5	Yolk E.	Lein	LEL	3dpf
+56-55-3	Yolk E.	Lein	LEL	3dpf
+56803-37-3	Yolk E.	Lein	LEL	3dpf
+860302-33-6	Yolk E.	Lein	LEL	3dpf
+1746-01-6	Par E.	Lein	LEL	3dpf
+97-77-8	Par E.	Lein	LEL	3dpf
+79-94-7	Par E.	Lein	LEL	3dpf
+2465-27-2	Par E.	Lein	LEL	3dpf
+56-53-1	Par E.	Lein	LEL	3dpf
+68937-41-7	Par E.	Lein	LEL	3dpf
+115-86-6	Par E.	Lein	LEL	3dpf
+439-14-5	Par E.	Lein	LEL	3dpf
+1241-94-7	Par E.	Lein	LEL	3dpf
+1330-78-5	Par E.	Lein	LEL	3dpf
+56-55-3	Par E.	Lein	LEL	3dpf
+56803-37-3	Par E.	Lein	LEL	3dpf
+860302-33-6	Par E.	Lein	LEL	3dpf
+1330-78-5	Red heart	Lein	LEL	3dpf
+1746-01-6	Axis	Lein	LEL	3dpf
+70-30-4	Axis	Lein	LEL	3dpf
+52918-63-5	Axis	Lein	LEL	3dpf
+116-06-3	Axis	Lein	LEL	3dpf
+52645-53-1	Axis	Lein	LEL	3dpf
+2465-27-2	Axis	Lein	LEL	3dpf
+56-53-1	Axis	Lein	LEL	3dpf
+50-29-3	Axis	Lein	LEL	3dpf
+68937-41-7	Axis	Lein	LEL	3dpf
+115-86-6	Axis	Lein	LEL	3dpf
+439-14-5	Axis	Lein	LEL	3dpf
+56-55-3	Axis	Lein	LEL	3dpf
+56803-37-3	Axis	Lein	LEL	3dpf
+860302-33-6	Axis	Lein	LEL	3dpf
+76-44-8	Axis	Lein	LEL	3dpf
+60-57-1	Axis	Lein	LEL	3dpf
+97-77-8	Notochord	Lein	LEL	3dpf
+79-94-7	C. Fin	Lein	LEL	3dpf
+68937-41-7	C. Fin	Lein	LEL	3dpf
+56803-37-3	C. Fin	Lein	LEL	3dpf
+76-44-8	C. Fin	Lein	LEL	3dpf
+97-77-8	C. Fin	Lein	LEL	3dpf
+1746-01-6	Mortality	Lein	AC50	4dpf
+2001-95-8	Mortality	Lein	AC50	4dpf
+83-79-4	Mortality	Lein	AC50	4dpf
+56-35-9	Mortality	Lein	AC50	4dpf
+115-09-3	Mortality	Lein	AC50	4dpf
+70-30-4	Mortality	Lein	AC50	4dpf
+55406-53-6	Mortality	Lein	AC50	4dpf
+79-94-7	Mortality	Lein	AC50	4dpf
+2465-27-2	Mortality	Lein	AC50	4dpf
+56-53-1	Mortality	Lein	AC50	4dpf
+26040-51-7	Mortality	Lein	AC50	4dpf
+97-77-8	Mortality	Lein	AC50	4dpf
+50-28-2	Mortality	Lein	AC50	4dpf
+115-86-6	Mortality	Lein	AC50	4dpf
+1478-61-1	Mortality	Lein	AC50	4dpf
+83-79-4	Halted Dev.	Lein	AC50	4dpf
+2001-95-8	Craniofacial	Lein	AC50	4dpf
+83-79-4	Craniofacial	Lein	AC50	4dpf
+1746-01-6	Yolk E.	Lein	AC50	4dpf
+2001-95-8	Yolk E.	Lein	AC50	4dpf
+115-09-3	Yolk E.	Lein	AC50	4dpf
+52918-63-5	Yolk E.	Lein	AC50	4dpf
+70-30-4	Yolk E.	Lein	AC50	4dpf
+55406-53-6	Yolk E.	Lein	AC50	4dpf
+97-77-8	Yolk E.	Lein	AC50	4dpf
+83-79-4	Yolk E.	Lein	AC50	4dpf
+79-94-7	Yolk E.	Lein	AC50	4dpf
+68937-41-7	Yolk E.	Lein	AC50	4dpf
+1330-78-5	Yolk E.	Lein	AC50	4dpf
+56803-37-3	Yolk E.	Lein	AC50	4dpf
+115-86-6	Yolk E.	Lein	AC50	4dpf
+860302-33-6	Yolk E.	Lein	AC50	4dpf
+56-53-1	Yolk E.	Lein	AC50	4dpf
+56-55-3	Yolk E.	Lein	AC50	4dpf
+1746-01-6	Par E.	Lein	AC50	4dpf
+2001-95-8	Par E.	Lein	AC50	4dpf
+52918-63-5	Par E.	Lein	AC50	4dpf
+115-09-3	Par E.	Lein	AC50	4dpf
+70-30-4	Par E.	Lein	AC50	4dpf
+97-77-8	Par E.	Lein	AC50	4dpf
+55406-53-6	Par E.	Lein	AC50	4dpf
+79-94-7	Par E.	Lein	AC50	4dpf
+68937-41-7	Par E.	Lein	AC50	4dpf
+56-53-1	Par E.	Lein	AC50	4dpf
+1330-78-5	Par E.	Lein	AC50	4dpf
+860302-33-6	Par E.	Lein	AC50	4dpf
+2465-27-2	Par E.	Lein	AC50	4dpf
+115-86-6	Par E.	Lein	AC50	4dpf
+1241-94-7	Par E.	Lein	AC50	4dpf
+56-55-3	Par E.	Lein	AC50	4dpf
+56803-37-3	Par E.	Lein	AC50	4dpf
+439-14-5	Par E.	Lein	AC50	4dpf
+1330-78-5	Red heart	Lein	AC50	4dpf
+1241-94-7	Red heart	Lein	AC50	4dpf
+1746-01-6	Axis	Lein	AC50	4dpf
+52918-63-5	Axis	Lein	AC50	4dpf
+115-09-3	Axis	Lein	AC50	4dpf
+2001-95-8	Axis	Lein	AC50	4dpf
+56-35-9	Axis	Lein	AC50	4dpf
+70-30-4	Axis	Lein	AC50	4dpf
+79-94-7	Axis	Lein	AC50	4dpf
+56-53-1	Axis	Lein	AC50	4dpf
+50-29-3	Axis	Lein	AC50	4dpf
+52645-53-1	Axis	Lein	AC50	4dpf
+115-86-6	Axis	Lein	AC50	4dpf
+439-14-5	Axis	Lein	AC50	4dpf
+1241-94-7	Axis	Lein	AC50	4dpf
+56803-37-3	Axis	Lein	AC50	4dpf
+68937-41-7	Axis	Lein	AC50	4dpf
+76-44-8	Axis	Lein	AC50	4dpf
+860302-33-6	Axis	Lein	AC50	4dpf
+1330-78-5	Axis	Lein	AC50	4dpf
+2001-95-8	Notochord	Lein	AC50	4dpf
+97-77-8	Notochord	Lein	AC50	4dpf
+1746-01-6	C. Fin	Lein	AC50	4dpf
+115-09-3	C. Fin	Lein	AC50	4dpf
+56-35-9	C. Fin	Lein	AC50	4dpf
+2001-95-8	C. Fin	Lein	AC50	4dpf
+70-30-4	C. Fin	Lein	AC50	4dpf
+79-94-7	C. Fin	Lein	AC50	4dpf
+56-53-1	C. Fin	Lein	AC50	4dpf
+50-28-2	C. Fin	Lein	AC50	4dpf
+56-55-3	C. Fin	Lein	AC50	4dpf
+2001-95-8	Pectoral Fin	Lein	AC50	4dpf
+115-09-3	Pectoral Fin	Lein	AC50	4dpf
+1746-01-6	Mortality	Lein	LEL	4dpf
+2001-95-8	Mortality	Lein	LEL	4dpf
+115-09-3	Mortality	Lein	LEL	4dpf
+56-35-9	Mortality	Lein	LEL	4dpf
+83-79-4	Mortality	Lein	LEL	4dpf
+55406-53-6	Mortality	Lein	LEL	4dpf
+70-30-4	Mortality	Lein	LEL	4dpf
+79-94-7	Mortality	Lein	LEL	4dpf
+2465-27-2	Mortality	Lein	LEL	4dpf
+115-86-6	Mortality	Lein	LEL	4dpf
+1478-61-1	Mortality	Lein	LEL	4dpf
+26040-51-7	Mortality	Lein	LEL	4dpf
+50-28-2	Mortality	Lein	LEL	4dpf
+56-53-1	Mortality	Lein	LEL	4dpf
+76-44-8	Mortality	Lein	LEL	4dpf
+97-77-8	Mortality	Lein	LEL	4dpf
+56-55-3	Craniofacial	Lein	LEL	4dpf
+1746-01-6	Yolk E.	Lein	LEL	4dpf
+97-77-8	Yolk E.	Lein	LEL	4dpf
+52918-63-5	Yolk E.	Lein	LEL	4dpf
+79-94-7	Yolk E.	Lein	LEL	4dpf
+68937-41-7	Yolk E.	Lein	LEL	4dpf
+56-55-3	Yolk E.	Lein	LEL	4dpf
+115-86-6	Yolk E.	Lein	LEL	4dpf
+1241-94-7	Yolk E.	Lein	LEL	4dpf
+1330-78-5	Yolk E.	Lein	LEL	4dpf
+439-14-5	Yolk E.	Lein	LEL	4dpf
+56803-37-3	Yolk E.	Lein	LEL	4dpf
+860302-33-6	Yolk E.	Lein	LEL	4dpf
+1746-01-6	Par E.	Lein	LEL	4dpf
+52918-63-5	Par E.	Lein	LEL	4dpf
+97-77-8	Par E.	Lein	LEL	4dpf
+70-30-4	Par E.	Lein	LEL	4dpf
+68937-41-7	Par E.	Lein	LEL	4dpf
+56-53-1	Par E.	Lein	LEL	4dpf
+56-55-3	Par E.	Lein	LEL	4dpf
+115-86-6	Par E.	Lein	LEL	4dpf
+1241-94-7	Par E.	Lein	LEL	4dpf
+1330-78-5	Par E.	Lein	LEL	4dpf
+439-14-5	Par E.	Lein	LEL	4dpf
+56803-37-3	Par E.	Lein	LEL	4dpf
+860302-33-6	Par E.	Lein	LEL	4dpf
+1241-94-7	Red heart	Lein	LEL	4dpf
+1330-78-5	Red heart	Lein	LEL	4dpf
+1746-01-6	Axis	Lein	LEL	4dpf
+52918-63-5	Axis	Lein	LEL	4dpf
+115-09-3	Axis	Lein	LEL	4dpf
+70-30-4	Axis	Lein	LEL	4dpf
+52645-53-1	Axis	Lein	LEL	4dpf
+56-53-1	Axis	Lein	LEL	4dpf
+1478-61-1	Axis	Lein	LEL	4dpf
+50-29-3	Axis	Lein	LEL	4dpf
+1241-94-7	Axis	Lein	LEL	4dpf
+1330-78-5	Axis	Lein	LEL	4dpf
+68937-41-7	Axis	Lein	LEL	4dpf
+56-55-3	Axis	Lein	LEL	4dpf
+115-86-6	Axis	Lein	LEL	4dpf
+439-14-5	Axis	Lein	LEL	4dpf
+56803-37-3	Axis	Lein	LEL	4dpf
+860302-33-6	Axis	Lein	LEL	4dpf
+76-44-8	Axis	Lein	LEL	4dpf
+133-06-2	Axis	Lein	LEL	4dpf
+97-77-8	Notochord	Lein	LEL	4dpf
+116-06-3	Notochord	Lein	LEL	4dpf
+97-77-8	C. Fin	Lein	LEL	4dpf
+79-94-7	C. Fin	Lein	LEL	4dpf
+56-55-3	C. Fin	Lein	LEL	4dpf
+2001-95-8	Pectoral Fin	Lein	LEL	4dpf
+1746-01-6	Mortality	Lein	AC50	5dpf
+2001-95-8	Mortality	Lein	AC50	5dpf
+83-79-4	Mortality	Lein	AC50	5dpf
+115-09-3	Mortality	Lein	AC50	5dpf
+56-35-9	Mortality	Lein	AC50	5dpf
+70-30-4	Mortality	Lein	AC50	5dpf
+55406-53-6	Mortality	Lein	AC50	5dpf
+79-94-7	Mortality	Lein	AC50	5dpf
+2465-27-2	Mortality	Lein	AC50	5dpf
+56-53-1	Mortality	Lein	AC50	5dpf
+1478-61-1	Mortality	Lein	AC50	5dpf
+97-77-8	Mortality	Lein	AC50	5dpf
+50-28-2	Mortality	Lein	AC50	5dpf
+26040-51-7	Mortality	Lein	AC50	5dpf
+68937-41-7	Mortality	Lein	AC50	5dpf
+56-55-3	Mortality	Lein	AC50	5dpf
+56803-37-3	Mortality	Lein	AC50	5dpf
+115-86-6	Mortality	Lein	AC50	5dpf
+76-44-8	Mortality	Lein	AC50	5dpf
+83-79-4	Halted Dev.	Lein	AC50	5dpf
+83-79-4	Craniofacial	Lein	AC50	5dpf
+1746-01-6	Yolk E.	Lein	AC50	5dpf
+2001-95-8	Yolk E.	Lein	AC50	5dpf
+115-09-3	Yolk E.	Lein	AC50	5dpf
+56-35-9	Yolk E.	Lein	AC50	5dpf
+70-30-4	Yolk E.	Lein	AC50	5dpf
+97-77-8	Yolk E.	Lein	AC50	5dpf
+83-79-4	Yolk E.	Lein	AC50	5dpf
+55406-53-6	Yolk E.	Lein	AC50	5dpf
+79-94-7	Yolk E.	Lein	AC50	5dpf
+56-53-1	Yolk E.	Lein	AC50	5dpf
+68937-41-7	Yolk E.	Lein	AC50	5dpf
+1478-61-1	Yolk E.	Lein	AC50	5dpf
+1330-78-5	Yolk E.	Lein	AC50	5dpf
+56-55-3	Yolk E.	Lein	AC50	5dpf
+860302-33-6	Yolk E.	Lein	AC50	5dpf
+115-86-6	Yolk E.	Lein	AC50	5dpf
+56803-37-3	Yolk E.	Lein	AC50	5dpf
+1241-94-7	Yolk E.	Lein	AC50	5dpf
+439-14-5	Yolk E.	Lein	AC50	5dpf
+1746-01-6	Par E.	Lein	AC50	5dpf
+2001-95-8	Par E.	Lein	AC50	5dpf
+115-09-3	Par E.	Lein	AC50	5dpf
+70-30-4	Par E.	Lein	AC50	5dpf
+97-77-8	Par E.	Lein	AC50	5dpf
+79-94-7	Par E.	Lein	AC50	5dpf
+55406-53-6	Par E.	Lein	AC50	5dpf
+68937-41-7	Par E.	Lein	AC50	5dpf
+1478-61-1	Par E.	Lein	AC50	5dpf
+1330-78-5	Par E.	Lein	AC50	5dpf
+56-53-1	Par E.	Lein	AC50	5dpf
+56-55-3	Par E.	Lein	AC50	5dpf
+2465-27-2	Par E.	Lein	AC50	5dpf
+115-86-6	Par E.	Lein	AC50	5dpf
+860302-33-6	Par E.	Lein	AC50	5dpf
+1241-94-7	Par E.	Lein	AC50	5dpf
+439-14-5	Par E.	Lein	AC50	5dpf
+56803-37-3	Par E.	Lein	AC50	5dpf
+1478-61-1	Red heart	Lein	AC50	5dpf
+1746-01-6	Axis	Lein	AC50	5dpf
+115-09-3	Axis	Lein	AC50	5dpf
+2001-95-8	Axis	Lein	AC50	5dpf
+52918-63-5	Axis	Lein	AC50	5dpf
+70-30-4	Axis	Lein	AC50	5dpf
+56-53-1	Axis	Lein	AC50	5dpf
+1478-61-1	Axis	Lein	AC50	5dpf
+50-29-3	Axis	Lein	AC50	5dpf
+68937-41-7	Axis	Lein	AC50	5dpf
+52645-53-1	Axis	Lein	AC50	5dpf
+56803-37-3	Axis	Lein	AC50	5dpf
+115-86-6	Axis	Lein	AC50	5dpf
+860302-33-6	Axis	Lein	AC50	5dpf
+439-14-5	Axis	Lein	AC50	5dpf
+1330-78-5	Axis	Lein	AC50	5dpf
+5436-43-1	Axis	Lein	AC50	5dpf
+76-44-8	Axis	Lein	AC50	5dpf
+1241-94-7	Axis	Lein	AC50	5dpf
+56-55-3	Axis	Lein	AC50	5dpf
+2001-95-8	Notochord	Lein	AC50	5dpf
+115-09-3	Notochord	Lein	AC50	5dpf
+97-77-8	Notochord	Lein	AC50	5dpf
+50-28-2	Notochord	Lein	AC50	5dpf
+2001-95-8	C. Fin	Lein	AC50	5dpf
+115-09-3	C. Fin	Lein	AC50	5dpf
+70-30-4	C. Fin	Lein	AC50	5dpf
+79-94-7	C. Fin	Lein	AC50	5dpf
+50-28-2	C. Fin	Lein	AC50	5dpf
+1478-61-1	C. Fin	Lein	AC50	5dpf
+56-55-3	C. Fin	Lein	AC50	5dpf
+1746-01-6	Mortality	Lein	LEL	5dpf
+2001-95-8	Mortality	Lein	LEL	5dpf
+115-09-3	Mortality	Lein	LEL	5dpf
+56-35-9	Mortality	Lein	LEL	5dpf
+83-79-4	Mortality	Lein	LEL	5dpf
+52918-63-5	Mortality	Lein	LEL	5dpf
+55406-53-6	Mortality	Lein	LEL	5dpf
+70-30-4	Mortality	Lein	LEL	5dpf
+79-94-7	Mortality	Lein	LEL	5dpf
+2465-27-2	Mortality	Lein	LEL	5dpf
+115-86-6	Mortality	Lein	LEL	5dpf
+1478-61-1	Mortality	Lein	LEL	5dpf
+26040-51-7	Mortality	Lein	LEL	5dpf
+50-28-2	Mortality	Lein	LEL	5dpf
+56-53-1	Mortality	Lein	LEL	5dpf
+56-55-3	Mortality	Lein	LEL	5dpf
+56803-37-3	Mortality	Lein	LEL	5dpf
+60-57-1	Mortality	Lein	LEL	5dpf
+68937-41-7	Mortality	Lein	LEL	5dpf
+76-44-8	Mortality	Lein	LEL	5dpf
+97-77-8	Mortality	Lein	LEL	5dpf
+1746-01-6	Yolk E.	Lein	LEL	5dpf
+115-09-3	Yolk E.	Lein	LEL	5dpf
+52918-63-5	Yolk E.	Lein	LEL	5dpf
+97-77-8	Yolk E.	Lein	LEL	5dpf
+1478-61-1	Yolk E.	Lein	LEL	5dpf
+56-53-1	Yolk E.	Lein	LEL	5dpf
+68937-41-7	Yolk E.	Lein	LEL	5dpf
+115-86-6	Yolk E.	Lein	LEL	5dpf
+56-55-3	Yolk E.	Lein	LEL	5dpf
+56803-37-3	Yolk E.	Lein	LEL	5dpf
+76-44-8	Yolk E.	Lein	LEL	5dpf
+1241-94-7	Yolk E.	Lein	LEL	5dpf
+1330-78-5	Yolk E.	Lein	LEL	5dpf
+439-14-5	Yolk E.	Lein	LEL	5dpf
+50-29-3	Yolk E.	Lein	LEL	5dpf
+860302-33-6	Yolk E.	Lein	LEL	5dpf
+1746-01-6	Par E.	Lein	LEL	5dpf
+115-09-3	Par E.	Lein	LEL	5dpf
+52918-63-5	Par E.	Lein	LEL	5dpf
+97-77-8	Par E.	Lein	LEL	5dpf
+1478-61-1	Par E.	Lein	LEL	5dpf
+68937-41-7	Par E.	Lein	LEL	5dpf
+115-86-6	Par E.	Lein	LEL	5dpf
+56-55-3	Par E.	Lein	LEL	5dpf
+56803-37-3	Par E.	Lein	LEL	5dpf
+76-44-8	Par E.	Lein	LEL	5dpf
+1241-94-7	Par E.	Lein	LEL	5dpf
+1330-78-5	Par E.	Lein	LEL	5dpf
+439-14-5	Par E.	Lein	LEL	5dpf
+50-29-3	Par E.	Lein	LEL	5dpf
+860302-33-6	Par E.	Lein	LEL	5dpf
+115-09-3	Axis	Lein	LEL	5dpf
+52918-63-5	Axis	Lein	LEL	5dpf
+1478-61-1	Axis	Lein	LEL	5dpf
+50-29-3	Axis	Lein	LEL	5dpf
+56-53-1	Axis	Lein	LEL	5dpf
+60-57-1	Axis	Lein	LEL	5dpf
+52645-53-1	Axis	Lein	LEL	5dpf
+5436-43-1	Axis	Lein	LEL	5dpf
+68937-41-7	Axis	Lein	LEL	5dpf
+115-86-6	Axis	Lein	LEL	5dpf
+56803-37-3	Axis	Lein	LEL	5dpf
+76-44-8	Axis	Lein	LEL	5dpf
+1241-94-7	Axis	Lein	LEL	5dpf
+1330-78-5	Axis	Lein	LEL	5dpf
+439-14-5	Axis	Lein	LEL	5dpf
+860302-33-6	Axis	Lein	LEL	5dpf
+97-77-8	Notochord	Lein	LEL	5dpf
+116-06-3	Notochord	Lein	LEL	5dpf
+79-94-7	C. Fin	Lein	LEL	5dpf
+56-55-3	C. Fin	Lein	LEL	5dpf
+83-79-4	MORT	Tanguay	AC50	5dpf
+1746-01-6	MORT	Tanguay	AC50	5dpf
+70-30-4	MORT	Tanguay	AC50	5dpf
+55406-53-6	MORT	Tanguay	AC50	5dpf
+79-94-7	MORT	Tanguay	AC50	5dpf
+56-53-1	MORT	Tanguay	AC50	5dpf
+2465-27-2	MORT	Tanguay	AC50	5dpf
+50-28-2	MORT	Tanguay	AC50	5dpf
+1478-61-1	MORT	Tanguay	AC50	5dpf
+115-86-6	MORT	Tanguay	AC50	5dpf
+439-14-5	MORT	Tanguay	AC50	5dpf
+26040-51-7	MORT	Tanguay	AC50	5dpf
+68937-41-7	MORT	Tanguay	AC50	5dpf
+56-38-2	MORT	Tanguay	AC50	5dpf
+860302-33-6	MORT	Tanguay	AC50	5dpf
+1330-78-5	MORT	Tanguay	AC50	5dpf
+80-05-7	MORT	Tanguay	AC50	5dpf
+215-58-7	MORT	Tanguay	AC50	5dpf
+129-00-0	MORT	Tanguay	AC50	5dpf
+56803-37-3	MORT	Tanguay	AC50	5dpf
+63-25-2	MORT	Tanguay	AC50	5dpf
+56-55-3	MORT	Tanguay	AC50	5dpf
+83-79-4	YSE_	Tanguay	AC50	5dpf
+70-30-4	YSE_	Tanguay	AC50	5dpf
+2465-27-2	YSE_	Tanguay	AC50	5dpf
+79-94-7	YSE_	Tanguay	AC50	5dpf
+115-09-3	YSE_	Tanguay	AC50	5dpf
+56-53-1	YSE_	Tanguay	AC50	5dpf
+68937-41-7	YSE_	Tanguay	AC50	5dpf
+2001-95-8	YSE_	Tanguay	AC50	5dpf
+50-28-2	YSE_	Tanguay	AC50	5dpf
+115-86-6	YSE_	Tanguay	AC50	5dpf
+55406-53-6	YSE_	Tanguay	AC50	5dpf
+439-14-5	YSE_	Tanguay	AC50	5dpf
+860302-33-6	YSE_	Tanguay	AC50	5dpf
+80-05-7	YSE_	Tanguay	AC50	5dpf
+56-38-2	YSE_	Tanguay	AC50	5dpf
+56803-37-3	YSE_	Tanguay	AC50	5dpf
+56-55-3	YSE_	Tanguay	AC50	5dpf
+1330-78-5	YSE_	Tanguay	AC50	5dpf
+50-29-3	YSE_	Tanguay	AC50	5dpf
+1241-94-7	YSE_	Tanguay	AC50	5dpf
+107534-96-3	YSE_	Tanguay	AC50	5dpf
+116-06-3	YSE_	Tanguay	AC50	5dpf
+26040-51-7	YSE_	Tanguay	AC50	5dpf
+52645-53-1	YSE_	Tanguay	AC50	5dpf
+63-25-2	YSE_	Tanguay	AC50	5dpf
+129-00-0	YSE_	Tanguay	AC50	5dpf
+83-79-4	AXIS	Tanguay	AC50	5dpf
+1746-01-6	AXIS	Tanguay	AC50	5dpf
+70-30-4	AXIS	Tanguay	AC50	5dpf
+55406-53-6	AXIS	Tanguay	AC50	5dpf
+2465-27-2	AXIS	Tanguay	AC50	5dpf
+79-94-7	AXIS	Tanguay	AC50	5dpf
+115-09-3	AXIS	Tanguay	AC50	5dpf
+56-53-1	AXIS	Tanguay	AC50	5dpf
+50-28-2	AXIS	Tanguay	AC50	5dpf
+68937-41-7	AXIS	Tanguay	AC50	5dpf
+115-86-6	AXIS	Tanguay	AC50	5dpf
+116-06-3	AXIS	Tanguay	AC50	5dpf
+439-14-5	AXIS	Tanguay	AC50	5dpf
+56803-37-3	AXIS	Tanguay	AC50	5dpf
+52645-53-1	AXIS	Tanguay	AC50	5dpf
+56-38-2	AXIS	Tanguay	AC50	5dpf
+860302-33-6	AXIS	Tanguay	AC50	5dpf
+80-05-7	AXIS	Tanguay	AC50	5dpf
+60-57-1	AXIS	Tanguay	AC50	5dpf
+50-29-3	AXIS	Tanguay	AC50	5dpf
+1241-94-7	AXIS	Tanguay	AC50	5dpf
+107534-96-3	AXIS	Tanguay	AC50	5dpf
+1330-78-5	AXIS	Tanguay	AC50	5dpf
+26040-51-7	AXIS	Tanguay	AC50	5dpf
+83-79-4	EYE_	Tanguay	AC50	5dpf
+70-30-4	EYE_	Tanguay	AC50	5dpf
+2465-27-2	EYE_	Tanguay	AC50	5dpf
+55406-53-6	EYE_	Tanguay	AC50	5dpf
+79-94-7	EYE_	Tanguay	AC50	5dpf
+115-09-3	EYE_	Tanguay	AC50	5dpf
+68937-41-7	EYE_	Tanguay	AC50	5dpf
+56-53-1	EYE_	Tanguay	AC50	5dpf
+115-86-6	EYE_	Tanguay	AC50	5dpf
+50-28-2	EYE_	Tanguay	AC50	5dpf
+52645-53-1	EYE_	Tanguay	AC50	5dpf
+439-14-5	EYE_	Tanguay	AC50	5dpf
+80-05-7	EYE_	Tanguay	AC50	5dpf
+56803-37-3	EYE_	Tanguay	AC50	5dpf
+860302-33-6	EYE_	Tanguay	AC50	5dpf
+56-38-2	EYE_	Tanguay	AC50	5dpf
+60-57-1	EYE_	Tanguay	AC50	5dpf
+107534-96-3	EYE_	Tanguay	AC50	5dpf
+1241-94-7	EYE_	Tanguay	AC50	5dpf
+1330-78-5	EYE_	Tanguay	AC50	5dpf
+26040-51-7	EYE_	Tanguay	AC50	5dpf
+50-29-3	EYE_	Tanguay	AC50	5dpf
+83-79-4	SNOU	Tanguay	AC50	5dpf
+70-30-4	SNOU	Tanguay	AC50	5dpf
+2465-27-2	SNOU	Tanguay	AC50	5dpf
+79-94-7	SNOU	Tanguay	AC50	5dpf
+115-09-3	SNOU	Tanguay	AC50	5dpf
+68937-41-7	SNOU	Tanguay	AC50	5dpf
+56-53-1	SNOU	Tanguay	AC50	5dpf
+115-86-6	SNOU	Tanguay	AC50	5dpf
+50-28-2	SNOU	Tanguay	AC50	5dpf
+52645-53-1	SNOU	Tanguay	AC50	5dpf
+439-14-5	SNOU	Tanguay	AC50	5dpf
+56803-37-3	SNOU	Tanguay	AC50	5dpf
+80-05-7	SNOU	Tanguay	AC50	5dpf
+56-38-2	SNOU	Tanguay	AC50	5dpf
+860302-33-6	SNOU	Tanguay	AC50	5dpf
+60-57-1	SNOU	Tanguay	AC50	5dpf
+1330-78-5	SNOU	Tanguay	AC50	5dpf
+107534-96-3	SNOU	Tanguay	AC50	5dpf
+1241-94-7	SNOU	Tanguay	AC50	5dpf
+50-29-3	SNOU	Tanguay	AC50	5dpf
+26040-51-7	SNOU	Tanguay	AC50	5dpf
+56-55-3	SNOU	Tanguay	AC50	5dpf
+83-79-4	JAW_	Tanguay	AC50	5dpf
+70-30-4	JAW_	Tanguay	AC50	5dpf
+55406-53-6	JAW_	Tanguay	AC50	5dpf
+2465-27-2	JAW_	Tanguay	AC50	5dpf
+79-94-7	JAW_	Tanguay	AC50	5dpf
+56-53-1	JAW_	Tanguay	AC50	5dpf
+115-09-3	JAW_	Tanguay	AC50	5dpf
+68937-41-7	JAW_	Tanguay	AC50	5dpf
+115-86-6	JAW_	Tanguay	AC50	5dpf
+50-28-2	JAW_	Tanguay	AC50	5dpf
+52645-53-1	JAW_	Tanguay	AC50	5dpf
+439-14-5	JAW_	Tanguay	AC50	5dpf
+860302-33-6	JAW_	Tanguay	AC50	5dpf
+56803-37-3	JAW_	Tanguay	AC50	5dpf
+56-38-2	JAW_	Tanguay	AC50	5dpf
+80-05-7	JAW_	Tanguay	AC50	5dpf
+60-57-1	JAW_	Tanguay	AC50	5dpf
+1241-94-7	JAW_	Tanguay	AC50	5dpf
+107534-96-3	JAW_	Tanguay	AC50	5dpf
+1330-78-5	JAW_	Tanguay	AC50	5dpf
+50-29-3	JAW_	Tanguay	AC50	5dpf
+26040-51-7	JAW_	Tanguay	AC50	5dpf
+56-55-3	JAW_	Tanguay	AC50	5dpf
+70-30-4	OTIC	Tanguay	AC50	5dpf
+2465-27-2	OTIC	Tanguay	AC50	5dpf
+68937-41-7	OTIC	Tanguay	AC50	5dpf
+115-86-6	OTIC	Tanguay	AC50	5dpf
+50-28-2	OTIC	Tanguay	AC50	5dpf
+52918-63-5	OTIC	Tanguay	AC50	5dpf
+56803-37-3	OTIC	Tanguay	AC50	5dpf
+860302-33-6	OTIC	Tanguay	AC50	5dpf
+107534-96-3	OTIC	Tanguay	AC50	5dpf
+1330-78-5	OTIC	Tanguay	AC50	5dpf
+1746-01-6	PE__	Tanguay	AC50	5dpf
+83-79-4	PE__	Tanguay	AC50	5dpf
+70-30-4	PE__	Tanguay	AC50	5dpf
+2465-27-2	PE__	Tanguay	AC50	5dpf
+115-09-3	PE__	Tanguay	AC50	5dpf
+79-94-7	PE__	Tanguay	AC50	5dpf
+56-53-1	PE__	Tanguay	AC50	5dpf
+68937-41-7	PE__	Tanguay	AC50	5dpf
+115-86-6	PE__	Tanguay	AC50	5dpf
+50-28-2	PE__	Tanguay	AC50	5dpf
+439-14-5	PE__	Tanguay	AC50	5dpf
+860302-33-6	PE__	Tanguay	AC50	5dpf
+56-38-2	PE__	Tanguay	AC50	5dpf
+80-05-7	PE__	Tanguay	AC50	5dpf
+56803-37-3	PE__	Tanguay	AC50	5dpf
+50-29-3	PE__	Tanguay	AC50	5dpf
+1330-78-5	PE__	Tanguay	AC50	5dpf
+1241-94-7	PE__	Tanguay	AC50	5dpf
+107534-96-3	PE__	Tanguay	AC50	5dpf
+26040-51-7	PE__	Tanguay	AC50	5dpf
+83-79-4	BRAI	Tanguay	AC50	5dpf
+1746-01-6	BRAI	Tanguay	AC50	5dpf
+55406-53-6	BRAI	Tanguay	AC50	5dpf
+2465-27-2	BRAI	Tanguay	AC50	5dpf
+79-94-7	BRAI	Tanguay	AC50	5dpf
+68937-41-7	BRAI	Tanguay	AC50	5dpf
+115-86-6	BRAI	Tanguay	AC50	5dpf
+50-28-2	BRAI	Tanguay	AC50	5dpf
+56803-37-3	BRAI	Tanguay	AC50	5dpf
+860302-33-6	BRAI	Tanguay	AC50	5dpf
+107534-96-3	BRAI	Tanguay	AC50	5dpf
+1330-78-5	BRAI	Tanguay	AC50	5dpf
+80-05-7	BRAI	Tanguay	AC50	5dpf
+70-30-4	SOMI	Tanguay	AC50	5dpf
+79-94-7	SOMI	Tanguay	AC50	5dpf
+2465-27-2	SOMI	Tanguay	AC50	5dpf
+50-28-2	SOMI	Tanguay	AC50	5dpf
+860302-33-6	SOMI	Tanguay	AC50	5dpf
+83-79-4	PFIN	Tanguay	AC50	5dpf
+70-30-4	PFIN	Tanguay	AC50	5dpf
+2465-27-2	PFIN	Tanguay	AC50	5dpf
+79-94-7	PFIN	Tanguay	AC50	5dpf
+56-53-1	PFIN	Tanguay	AC50	5dpf
+115-09-3	PFIN	Tanguay	AC50	5dpf
+68937-41-7	PFIN	Tanguay	AC50	5dpf
+115-86-6	PFIN	Tanguay	AC50	5dpf
+50-28-2	PFIN	Tanguay	AC50	5dpf
+55406-53-6	PFIN	Tanguay	AC50	5dpf
+439-14-5	PFIN	Tanguay	AC50	5dpf
+860302-33-6	PFIN	Tanguay	AC50	5dpf
+80-05-7	PFIN	Tanguay	AC50	5dpf
+56803-37-3	PFIN	Tanguay	AC50	5dpf
+56-38-2	PFIN	Tanguay	AC50	5dpf
+56-55-3	PFIN	Tanguay	AC50	5dpf
+60-57-1	PFIN	Tanguay	AC50	5dpf
+1241-94-7	PFIN	Tanguay	AC50	5dpf
+107534-96-3	PFIN	Tanguay	AC50	5dpf
+1330-78-5	PFIN	Tanguay	AC50	5dpf
+26040-51-7	PFIN	Tanguay	AC50	5dpf
+63-25-2	PFIN	Tanguay	AC50	5dpf
+1746-01-6	CFIN	Tanguay	AC50	5dpf
+83-79-4	CFIN	Tanguay	AC50	5dpf
+70-30-4	CFIN	Tanguay	AC50	5dpf
+55406-53-6	CFIN	Tanguay	AC50	5dpf
+79-94-7	CFIN	Tanguay	AC50	5dpf
+2465-27-2	CFIN	Tanguay	AC50	5dpf
+115-09-3	CFIN	Tanguay	AC50	5dpf
+68937-41-7	CFIN	Tanguay	AC50	5dpf
+115-86-6	CFIN	Tanguay	AC50	5dpf
+56-53-1	CFIN	Tanguay	AC50	5dpf
+50-28-2	CFIN	Tanguay	AC50	5dpf
+56803-37-3	CFIN	Tanguay	AC50	5dpf
+860302-33-6	CFIN	Tanguay	AC50	5dpf
+439-14-5	CFIN	Tanguay	AC50	5dpf
+56-38-2	CFIN	Tanguay	AC50	5dpf
+80-05-7	CFIN	Tanguay	AC50	5dpf
+207-08-9	CFIN	Tanguay	AC50	5dpf
+52645-53-1	CFIN	Tanguay	AC50	5dpf
+60-57-1	CFIN	Tanguay	AC50	5dpf
+107534-96-3	CFIN	Tanguay	AC50	5dpf
+1241-94-7	CFIN	Tanguay	AC50	5dpf
+53-70-3	CFIN	Tanguay	AC50	5dpf
+26040-51-7	CFIN	Tanguay	AC50	5dpf
+1746-01-6	TRUN	Tanguay	AC50	5dpf
+70-30-4	TRUN	Tanguay	AC50	5dpf
+55406-53-6	TRUN	Tanguay	AC50	5dpf
+79-94-7	TRUN	Tanguay	AC50	5dpf
+2465-27-2	TRUN	Tanguay	AC50	5dpf
+115-09-3	TRUN	Tanguay	AC50	5dpf
+56-53-1	TRUN	Tanguay	AC50	5dpf
+68937-41-7	TRUN	Tanguay	AC50	5dpf
+115-86-6	TRUN	Tanguay	AC50	5dpf
+50-28-2	TRUN	Tanguay	AC50	5dpf
+439-14-5	TRUN	Tanguay	AC50	5dpf
+56803-37-3	TRUN	Tanguay	AC50	5dpf
+56-38-2	TRUN	Tanguay	AC50	5dpf
+860302-33-6	TRUN	Tanguay	AC50	5dpf
+80-05-7	TRUN	Tanguay	AC50	5dpf
+60-57-1	TRUN	Tanguay	AC50	5dpf
+1241-94-7	TRUN	Tanguay	AC50	5dpf
+26040-51-7	TRUN	Tanguay	AC50	5dpf
+2465-27-2	SWIM	Tanguay	AC50	5dpf
+97-77-8	NC__	Tanguay	AC50	5dpf
+55406-53-6	NC__	Tanguay	AC50	5dpf
+79-94-7	NC__	Tanguay	AC50	5dpf
+1746-01-6	MORT	Tanguay	LEL	5dpf
+83-79-4	MORT	Tanguay	LEL	5dpf
+70-30-4	MORT	Tanguay	LEL	5dpf
+115-09-3	MORT	Tanguay	LEL	5dpf
+2001-95-8	MORT	Tanguay	LEL	5dpf
+129-00-0	MORT	Tanguay	LEL	5dpf
+55406-53-6	MORT	Tanguay	LEL	5dpf
+56-53-1	MORT	Tanguay	LEL	5dpf
+56-55-3	MORT	Tanguay	LEL	5dpf
+79-94-7	MORT	Tanguay	LEL	5dpf
+2465-27-2	MORT	Tanguay	LEL	5dpf
+2921-88-2	MORT	Tanguay	LEL	5dpf
+115-86-6	MORT	Tanguay	LEL	5dpf
+1478-61-1	MORT	Tanguay	LEL	5dpf
+26040-51-7	MORT	Tanguay	LEL	5dpf
+50-28-2	MORT	Tanguay	LEL	5dpf
+68937-41-7	MORT	Tanguay	LEL	5dpf
+1330-78-5	MORT	Tanguay	LEL	5dpf
+439-14-5	MORT	Tanguay	LEL	5dpf
+56-38-2	MORT	Tanguay	LEL	5dpf
+56803-37-3	MORT	Tanguay	LEL	5dpf
+107534-96-3	MORT	Tanguay	LEL	5dpf
+1241-94-7	MORT	Tanguay	LEL	5dpf
+207-08-9	MORT	Tanguay	LEL	5dpf
+215-58-7	MORT	Tanguay	LEL	5dpf
+218-01-9	MORT	Tanguay	LEL	5dpf
+60-57-1	MORT	Tanguay	LEL	5dpf
+63-25-2	MORT	Tanguay	LEL	5dpf
+80-05-7	MORT	Tanguay	LEL	5dpf
+860302-33-6	MORT	Tanguay	LEL	5dpf
+1746-01-6	YSE_	Tanguay	LEL	5dpf
+83-79-4	YSE_	Tanguay	LEL	5dpf
+70-30-4	YSE_	Tanguay	LEL	5dpf
+97-77-8	YSE_	Tanguay	LEL	5dpf
+115-09-3	YSE_	Tanguay	LEL	5dpf
+52918-63-5	YSE_	Tanguay	LEL	5dpf
+56-53-1	YSE_	Tanguay	LEL	5dpf
+79-94-7	YSE_	Tanguay	LEL	5dpf
+2465-27-2	YSE_	Tanguay	LEL	5dpf
+116-06-3	YSE_	Tanguay	LEL	5dpf
+115-86-6	YSE_	Tanguay	LEL	5dpf
+1478-61-1	YSE_	Tanguay	LEL	5dpf
+50-28-2	YSE_	Tanguay	LEL	5dpf
+68937-41-7	YSE_	Tanguay	LEL	5dpf
+439-14-5	YSE_	Tanguay	LEL	5dpf
+860302-33-6	YSE_	Tanguay	LEL	5dpf
+50-29-3	YSE_	Tanguay	LEL	5dpf
+56-55-3	YSE_	Tanguay	LEL	5dpf
+1330-78-5	YSE_	Tanguay	LEL	5dpf
+56-38-2	YSE_	Tanguay	LEL	5dpf
+56803-37-3	YSE_	Tanguay	LEL	5dpf
+1241-94-7	YSE_	Tanguay	LEL	5dpf
+80-05-7	YSE_	Tanguay	LEL	5dpf
+52645-53-1	YSE_	Tanguay	LEL	5dpf
+129-00-0	YSE_	Tanguay	LEL	5dpf
+107534-96-3	YSE_	Tanguay	LEL	5dpf
+207-08-9	YSE_	Tanguay	LEL	5dpf
+60-57-1	YSE_	Tanguay	LEL	5dpf
+63-25-2	YSE_	Tanguay	LEL	5dpf
+53-70-3	YSE_	Tanguay	LEL	5dpf
+58-89-9	YSE_	Tanguay	LEL	5dpf
+1746-01-6	AXIS	Tanguay	LEL	5dpf
+70-30-4	AXIS	Tanguay	LEL	5dpf
+52918-63-5	AXIS	Tanguay	LEL	5dpf
+55406-53-6	AXIS	Tanguay	LEL	5dpf
+79-94-7	AXIS	Tanguay	LEL	5dpf
+2465-27-2	AXIS	Tanguay	LEL	5dpf
+116-06-3	AXIS	Tanguay	LEL	5dpf
+115-86-6	AXIS	Tanguay	LEL	5dpf
+50-28-2	AXIS	Tanguay	LEL	5dpf
+68937-41-7	AXIS	Tanguay	LEL	5dpf
+60-57-1	AXIS	Tanguay	LEL	5dpf
+439-14-5	AXIS	Tanguay	LEL	5dpf
+50-29-3	AXIS	Tanguay	LEL	5dpf
+1330-78-5	AXIS	Tanguay	LEL	5dpf
+52645-53-1	AXIS	Tanguay	LEL	5dpf
+860302-33-6	AXIS	Tanguay	LEL	5dpf
+56-38-2	AXIS	Tanguay	LEL	5dpf
+56803-37-3	AXIS	Tanguay	LEL	5dpf
+80-05-7	AXIS	Tanguay	LEL	5dpf
+1241-94-7	AXIS	Tanguay	LEL	5dpf
+129-00-0	AXIS	Tanguay	LEL	5dpf
+107534-96-3	AXIS	Tanguay	LEL	5dpf
+58-89-9	AXIS	Tanguay	LEL	5dpf
+1746-01-6	EYE_	Tanguay	LEL	5dpf
+70-30-4	EYE_	Tanguay	LEL	5dpf
+97-77-8	EYE_	Tanguay	LEL	5dpf
+52918-63-5	EYE_	Tanguay	LEL	5dpf
+79-94-7	EYE_	Tanguay	LEL	5dpf
+2465-27-2	EYE_	Tanguay	LEL	5dpf
+115-86-6	EYE_	Tanguay	LEL	5dpf
+68937-41-7	EYE_	Tanguay	LEL	5dpf
+60-57-1	EYE_	Tanguay	LEL	5dpf
+52645-53-1	EYE_	Tanguay	LEL	5dpf
+50-28-2	EYE_	Tanguay	LEL	5dpf
+50-29-3	EYE_	Tanguay	LEL	5dpf
+1330-78-5	EYE_	Tanguay	LEL	5dpf
+860302-33-6	EYE_	Tanguay	LEL	5dpf
+56-38-2	EYE_	Tanguay	LEL	5dpf
+56803-37-3	EYE_	Tanguay	LEL	5dpf
+80-05-7	EYE_	Tanguay	LEL	5dpf
+1241-94-7	EYE_	Tanguay	LEL	5dpf
+107534-96-3	EYE_	Tanguay	LEL	5dpf
+53-70-3	EYE_	Tanguay	LEL	5dpf
+1746-01-6	SNOU	Tanguay	LEL	5dpf
+70-30-4	SNOU	Tanguay	LEL	5dpf
+97-77-8	SNOU	Tanguay	LEL	5dpf
+52918-63-5	SNOU	Tanguay	LEL	5dpf
+2465-27-2	SNOU	Tanguay	LEL	5dpf
+68937-41-7	SNOU	Tanguay	LEL	5dpf
+115-86-6	SNOU	Tanguay	LEL	5dpf
+60-57-1	SNOU	Tanguay	LEL	5dpf
+52645-53-1	SNOU	Tanguay	LEL	5dpf
+50-28-2	SNOU	Tanguay	LEL	5dpf
+50-29-3	SNOU	Tanguay	LEL	5dpf
+1330-78-5	SNOU	Tanguay	LEL	5dpf
+860302-33-6	SNOU	Tanguay	LEL	5dpf
+56-38-2	SNOU	Tanguay	LEL	5dpf
+56803-37-3	SNOU	Tanguay	LEL	5dpf
+80-05-7	SNOU	Tanguay	LEL	5dpf
+1241-94-7	SNOU	Tanguay	LEL	5dpf
+107534-96-3	SNOU	Tanguay	LEL	5dpf
+53-70-3	SNOU	Tanguay	LEL	5dpf
+129-00-0	SNOU	Tanguay	LEL	5dpf
+56-55-3	SNOU	Tanguay	LEL	5dpf
+207-08-9	SNOU	Tanguay	LEL	5dpf
+1746-01-6	JAW_	Tanguay	LEL	5dpf
+70-30-4	JAW_	Tanguay	LEL	5dpf
+52918-63-5	JAW_	Tanguay	LEL	5dpf
+2465-27-2	JAW_	Tanguay	LEL	5dpf
+68937-41-7	JAW_	Tanguay	LEL	5dpf
+116-06-3	JAW_	Tanguay	LEL	5dpf
+56-53-1	JAW_	Tanguay	LEL	5dpf
+115-86-6	JAW_	Tanguay	LEL	5dpf
+60-57-1	JAW_	Tanguay	LEL	5dpf
+52645-53-1	JAW_	Tanguay	LEL	5dpf
+50-28-2	JAW_	Tanguay	LEL	5dpf
+50-29-3	JAW_	Tanguay	LEL	5dpf
+439-14-5	JAW_	Tanguay	LEL	5dpf
+1330-78-5	JAW_	Tanguay	LEL	5dpf
+860302-33-6	JAW_	Tanguay	LEL	5dpf
+56-38-2	JAW_	Tanguay	LEL	5dpf
+56803-37-3	JAW_	Tanguay	LEL	5dpf
+80-05-7	JAW_	Tanguay	LEL	5dpf
+1241-94-7	JAW_	Tanguay	LEL	5dpf
+56-55-3	JAW_	Tanguay	LEL	5dpf
+107534-96-3	JAW_	Tanguay	LEL	5dpf
+53-70-3	JAW_	Tanguay	LEL	5dpf
+129-00-0	JAW_	Tanguay	LEL	5dpf
+207-08-9	JAW_	Tanguay	LEL	5dpf
+70-30-4	OTIC	Tanguay	LEL	5dpf
+52918-63-5	OTIC	Tanguay	LEL	5dpf
+2465-27-2	OTIC	Tanguay	LEL	5dpf
+68937-41-7	OTIC	Tanguay	LEL	5dpf
+115-86-6	OTIC	Tanguay	LEL	5dpf
+50-28-2	OTIC	Tanguay	LEL	5dpf
+1330-78-5	OTIC	Tanguay	LEL	5dpf
+56803-37-3	OTIC	Tanguay	LEL	5dpf
+860302-33-6	OTIC	Tanguay	LEL	5dpf
+107534-96-3	OTIC	Tanguay	LEL	5dpf
+1746-01-6	PE__	Tanguay	LEL	5dpf
+70-30-4	PE__	Tanguay	LEL	5dpf
+52918-63-5	PE__	Tanguay	LEL	5dpf
+115-09-3	PE__	Tanguay	LEL	5dpf
+2465-27-2	PE__	Tanguay	LEL	5dpf
+68937-41-7	PE__	Tanguay	LEL	5dpf
+56-53-1	PE__	Tanguay	LEL	5dpf
+79-94-7	PE__	Tanguay	LEL	5dpf
+115-86-6	PE__	Tanguay	LEL	5dpf
+50-28-2	PE__	Tanguay	LEL	5dpf
+1330-78-5	PE__	Tanguay	LEL	5dpf
+56803-37-3	PE__	Tanguay	LEL	5dpf
+860302-33-6	PE__	Tanguay	LEL	5dpf
+60-57-1	PE__	Tanguay	LEL	5dpf
+50-29-3	PE__	Tanguay	LEL	5dpf
+439-14-5	PE__	Tanguay	LEL	5dpf
+26040-51-7	PE__	Tanguay	LEL	5dpf
+116-06-3	PE__	Tanguay	LEL	5dpf
+56-38-2	PE__	Tanguay	LEL	5dpf
+80-05-7	PE__	Tanguay	LEL	5dpf
+1241-94-7	PE__	Tanguay	LEL	5dpf
+107534-96-3	PE__	Tanguay	LEL	5dpf
+52645-53-1	PE__	Tanguay	LEL	5dpf
+53-70-3	PE__	Tanguay	LEL	5dpf
+129-00-0	PE__	Tanguay	LEL	5dpf
+207-08-9	PE__	Tanguay	LEL	5dpf
+58-89-9	PE__	Tanguay	LEL	5dpf
+1746-01-6	BRAI	Tanguay	LEL	5dpf
+70-30-4	BRAI	Tanguay	LEL	5dpf
+52918-63-5	BRAI	Tanguay	LEL	5dpf
+2465-27-2	BRAI	Tanguay	LEL	5dpf
+68937-41-7	BRAI	Tanguay	LEL	5dpf
+115-86-6	BRAI	Tanguay	LEL	5dpf
+50-28-2	BRAI	Tanguay	LEL	5dpf
+1330-78-5	BRAI	Tanguay	LEL	5dpf
+56803-37-3	BRAI	Tanguay	LEL	5dpf
+860302-33-6	BRAI	Tanguay	LEL	5dpf
+107534-96-3	BRAI	Tanguay	LEL	5dpf
+70-30-4	SOMI	Tanguay	LEL	5dpf
+50-28-2	SOMI	Tanguay	LEL	5dpf
+1746-01-6	PFIN	Tanguay	LEL	5dpf
+70-30-4	PFIN	Tanguay	LEL	5dpf
+52918-63-5	PFIN	Tanguay	LEL	5dpf
+2465-27-2	PFIN	Tanguay	LEL	5dpf
+68937-41-7	PFIN	Tanguay	LEL	5dpf
+56-53-1	PFIN	Tanguay	LEL	5dpf
+79-94-7	PFIN	Tanguay	LEL	5dpf
+115-86-6	PFIN	Tanguay	LEL	5dpf
+60-57-1	PFIN	Tanguay	LEL	5dpf
+50-28-2	PFIN	Tanguay	LEL	5dpf
+1330-78-5	PFIN	Tanguay	LEL	5dpf
+439-14-5	PFIN	Tanguay	LEL	5dpf
+26040-51-7	PFIN	Tanguay	LEL	5dpf
+116-06-3	PFIN	Tanguay	LEL	5dpf
+56803-37-3	PFIN	Tanguay	LEL	5dpf
+860302-33-6	PFIN	Tanguay	LEL	5dpf
+50-29-3	PFIN	Tanguay	LEL	5dpf
+56-38-2	PFIN	Tanguay	LEL	5dpf
+80-05-7	PFIN	Tanguay	LEL	5dpf
+1241-94-7	PFIN	Tanguay	LEL	5dpf
+52645-53-1	PFIN	Tanguay	LEL	5dpf
+56-55-3	PFIN	Tanguay	LEL	5dpf
+107534-96-3	PFIN	Tanguay	LEL	5dpf
+53-70-3	PFIN	Tanguay	LEL	5dpf
+207-08-9	PFIN	Tanguay	LEL	5dpf
+63-25-2	PFIN	Tanguay	LEL	5dpf
+1746-01-6	CFIN	Tanguay	LEL	5dpf
+56-35-9	CFIN	Tanguay	LEL	5dpf
+70-30-4	CFIN	Tanguay	LEL	5dpf
+52918-63-5	CFIN	Tanguay	LEL	5dpf
+116-06-3	CFIN	Tanguay	LEL	5dpf
+55406-53-6	CFIN	Tanguay	LEL	5dpf
+2465-27-2	CFIN	Tanguay	LEL	5dpf
+79-94-7	CFIN	Tanguay	LEL	5dpf
+68937-41-7	CFIN	Tanguay	LEL	5dpf
+115-86-6	CFIN	Tanguay	LEL	5dpf
+60-57-1	CFIN	Tanguay	LEL	5dpf
+207-08-9	CFIN	Tanguay	LEL	5dpf
+50-28-2	CFIN	Tanguay	LEL	5dpf
+56803-37-3	CFIN	Tanguay	LEL	5dpf
+50-29-3	CFIN	Tanguay	LEL	5dpf
+52645-53-1	CFIN	Tanguay	LEL	5dpf
+860302-33-6	CFIN	Tanguay	LEL	5dpf
+56-38-2	CFIN	Tanguay	LEL	5dpf
+80-05-7	CFIN	Tanguay	LEL	5dpf
+53-70-3	CFIN	Tanguay	LEL	5dpf
+1241-94-7	CFIN	Tanguay	LEL	5dpf
+107534-96-3	CFIN	Tanguay	LEL	5dpf
+58-89-9	CFIN	Tanguay	LEL	5dpf
+1746-01-6	TRUN	Tanguay	LEL	5dpf
+70-30-4	TRUN	Tanguay	LEL	5dpf
+97-77-8	TRUN	Tanguay	LEL	5dpf
+52918-63-5	TRUN	Tanguay	LEL	5dpf
+116-06-3	TRUN	Tanguay	LEL	5dpf
+55406-53-6	TRUN	Tanguay	LEL	5dpf
+2465-27-2	TRUN	Tanguay	LEL	5dpf
+68937-41-7	TRUN	Tanguay	LEL	5dpf
+115-86-6	TRUN	Tanguay	LEL	5dpf
+60-57-1	TRUN	Tanguay	LEL	5dpf
+50-28-2	TRUN	Tanguay	LEL	5dpf
+56803-37-3	TRUN	Tanguay	LEL	5dpf
+52645-53-1	TRUN	Tanguay	LEL	5dpf
+50-29-3	TRUN	Tanguay	LEL	5dpf
+860302-33-6	TRUN	Tanguay	LEL	5dpf
+56-38-2	TRUN	Tanguay	LEL	5dpf
+80-05-7	TRUN	Tanguay	LEL	5dpf
+1241-94-7	TRUN	Tanguay	LEL	5dpf
+1330-78-5	TRUN	Tanguay	LEL	5dpf
+207-08-9	TRUN	Tanguay	LEL	5dpf
+53-70-3	TRUN	Tanguay	LEL	5dpf
+97-77-8	NC__	Tanguay	LEL	5dpf
+116-06-3	NC__	Tanguay	LEL	5dpf
+55406-53-6	NC__	Tanguay	LEL	5dpf
+60-57-1	NC__	Tanguay	LEL	5dpf
+83-79-4	Mortality	Tanguay	AC50	1dpf
+70-30-4	Mortality	Tanguay	AC50	1dpf
+2001-95-8	Mortality	Tanguay	AC50	1dpf
+55406-53-6	Mortality	Tanguay	AC50	1dpf
+56-53-1	Mortality	Tanguay	AC50	1dpf
+2465-27-2	Mortality	Tanguay	AC50	1dpf
+26040-51-7	Mortality	Tanguay	AC50	1dpf
+1478-61-1	Mortality	Tanguay	AC50	1dpf
+50-28-2	Mortality	Tanguay	AC50	1dpf
+79-94-7	Mortality	Tanguay	AC50	1dpf
+68937-41-7	Mortality	Tanguay	AC50	1dpf
+115-86-6	Mortality	Tanguay	AC50	1dpf
+215-58-7	Mortality	Tanguay	AC50	1dpf
+83-79-4	Mortality	Tanguay	LEL	1dpf
+70-30-4	Mortality	Tanguay	LEL	1dpf
+115-09-3	Mortality	Tanguay	LEL	1dpf
+2001-95-8	Mortality	Tanguay	LEL	1dpf
+129-00-0	Mortality	Tanguay	LEL	1dpf
+55406-53-6	Mortality	Tanguay	LEL	1dpf
+56-53-1	Mortality	Tanguay	LEL	1dpf
+1478-61-1	Mortality	Tanguay	LEL	1dpf
+2465-27-2	Mortality	Tanguay	LEL	1dpf
+26040-51-7	Mortality	Tanguay	LEL	1dpf
+79-94-7	Mortality	Tanguay	LEL	1dpf
+115-86-6	Mortality	Tanguay	LEL	1dpf
+50-28-2	Mortality	Tanguay	LEL	1dpf
+68937-41-7	Mortality	Tanguay	LEL	1dpf
+215-58-7	Mortality	Tanguay	LEL	1dpf
+218-01-9	Mortality	Tanguay	LEL	1dpf
+439-14-5	Mortality	Tanguay	LEL	1dpf
+56-38-2	Mortality	Tanguay	LEL	1dpf
+56-55-3	Mortality	Tanguay	LEL	1dpf
+56803-37-3	Mortality	Tanguay	LEL	1dpf
+860302-33-6	Mortality	Tanguay	LEL	1dpf

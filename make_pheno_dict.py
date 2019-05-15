@@ -10,9 +10,7 @@ for line in in_file:
 	row = line.split('\t')
 	pheno = row[0]
 	zp = row[1]
-	url = 'http://purl.obolibrary.org/obo/'
-	print(pheno)
-	print(url + zp)
-	pheno_dict[pheno] = url + zp
+	label = row[2]
+	pheno_dict[pheno] = label + '|' + zp
 	
 pickle.dump(pheno_dict, open('pheno_dict.p', 'wb'))

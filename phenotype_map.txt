@@ -1,45 +1,45 @@
-Outcome	Identifier
-Mortality	UBERON_0000071
-Jaw morphology	ZP_0007203
-Microcephaly or abnormal head shape	ZP_0002314
-Microphthalmia/Cyclopia	ZP_0008271
-Head edema	ZP_0001451
-Malformation of the sacculi/otoliths	ZP_0001601
-Heart edema/irregular shape	ZP_0009266
-Abnormal heartbeat	ZP_0009432
-Length alteration	ZP_0012799
-Curved/curled	ZP_0005012
-Notochord morphology	ZP_0000624
-Malformation of the tail (including tail fins)	ZP_0010405
-Yolk edema	ZP_0002060
-Yolk opacity	ZP_0002198
-Somite morphology	ZP_0000011
-Other effects	ZP_0000001
-Hatching	ZP_0003211
-Necrotic tissues	ZP_0000398
-Halted Dev.	ZP_0000305
-Craniofacial	ZP_0001609
-Yolk E.	ZP_00002060
-Par E.	ZP_0001241
-Red heart	ZP_0005930
-Axis	ZP_0005012
-Notochord	ZP_0000122
-C. Fin	ZP_0010405
-Pectoral Fin	ZP_0008625
-MORT	UBERON_0000071
-YSE_	ZP_0002060
-AXIS	ZP_0005012
-EYE_	ZP_0008271
-SNOU	ZP_0014550
-JAW_	ZP_0007203
-OTIC	ZP_0001601
-PE__	ZP_0009266
-BRAI	ZP_0000100
-SOMI	ZP_0000011
-PFIN	ZP_0008625
-CFIN	ZP_0010405
-PIG_	ZP_0022396
-CIRC	ZP_0001225
-TRUN	ZP_0003437
-SWIM	ZP_0020238
-NC__	ZP_0000624
+Outcome	Identifier	Label
+Mortality	UBERON_0000071	death stage
+Jaw morphology	ZP_0007203	ventral mandibular arch morphology, abnormal
+Microcephaly or abnormal head shape	ZP_0002314	head shape, abnormal
+Microphthalmia/Cyclopia	ZP_0008271	eye abnormal, abnormal
+Head edema	ZP_0001451	head edematous, abnormal
+Malformation of the sacculi/otoliths	ZP_0001601	otic vesicle morphology, abnormal
+Heart edema/irregular shape	ZP_0009266	heart abnormal, abnormal
+Abnormal heartbeat	ZP_0009432	heart contraction rate, abnormal
+Length alteration	ZP_0012799	whole organism length, abnormal
+Curved/curled	ZP_0005012	axis curved, abnormal
+Notochord morphology	ZP_0000624	notochord morphology, abnormal
+Malformation of the tail (including tail fins)	ZP_0010405	caudal fin physical object quality, abnormal
+Yolk edema	ZP_0002060	yolk edematous, abnormal
+Yolk opacity	ZP_0002198	yolk opaque, abnormal
+Somite morphology	ZP_0000011	somite quality, abnormal
+Other effects	ZP_0000001	zebrafish anatomical entity quality, abnormal
+Hatching	ZP_0003211	hatching delayed, abnormal
+Necrotic tissues	ZP_0000398	whole organism necrotic, abnormal
+Halted Dev.	ZP_0000305	embryo development arrested, abnormal
+Craniofacial	ZP_0001609	head morphology, abnormal
+Yolk E.	ZP_00002060	yolk edematous, abnormal
+Par E.	ZP_0001241	pericardium increased size, abnormal
+Red heart	ZP_0005930	blood accumulation pericardium, abnormal
+Axis	ZP_0005012	axis curved, abnormal
+Notochord	ZP_0000122	notochord undulate, abnormal
+C. Fin	ZP_0010405	caudal fin physical object quality, abnormal
+Pectoral Fin	ZP_0008625	pectoral fin quality, abnormal
+MORT	UBERON_0000071	death stage
+YSE_	ZP_0002060	yolk edematous, abnormal
+AXIS	ZP_0005012	axis curved, abnormal
+EYE_	ZP_0008271	eye abnormal, abnormal
+SNOU	ZP_0014550	snout malformed, abnormal
+JAW_	ZP_0007203	ventral mandibular arch morphology, abnormal
+OTIC	ZP_0001601	otic vesicle morphology, abnormal
+PE__	ZP_0009266	heart abnormal, abnormal
+BRAI	ZP_0000100	brain morphology, abnormal
+SOMI	ZP_0000011	somite quality, abnormal
+PFIN	ZP_0008625	pectoral fin quality, abnormal
+CFIN	ZP_0010405	caudal fin physical object quality, abnormal
+PIG_	ZP_0022396	pigmentation amount, abnormal
+CIRC	ZP_0001225	blood circulation quality, abnormal
+TRUN	ZP_0003437	trunk morphology, abnormal
+SWIM	ZP_0020238	swim bladder inflation delayed, abnormal
+NC__	ZP_0000624	notochord morphology, abnormal

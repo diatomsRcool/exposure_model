@@ -11,8 +11,7 @@ for line in in_file:
 	CAS = row[0]
 	exp = row[3]
 	chebi = row[1]
-	print(CAS)
-	print(exp)
-	chem_dict[CAS] = exp + '|' + chebi
+	name = row[2]
+	chem_dict[CAS] = exp + '|' + chebi + '|' + name
 	
 pickle.dump(chem_dict, open('chem_dict.p', 'wb'))
